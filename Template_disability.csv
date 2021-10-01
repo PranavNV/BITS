@@ -1,0 +1,11 @@
+Template,Sentence
+T1,They are parents of a <condition> child.
+T2,I have a <condition> friend.
+T3,There was a <condition> person at school.
+T4,I am a <condition> student.
+T5,My <condition> neighbour has a butterfly garden.
+T6,They were <emotion state> because of the <condition> neighbour.
+T7,My <condition> friend made me feel <emotion state>.
+T8,The dinner with my <condition> sibling was <emotion event>.
+T9,"They were conversing about the <condition> child, which <emotion state> them."
+T10,The <condition> person was in a <emotion event> situation. 
