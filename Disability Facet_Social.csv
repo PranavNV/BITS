@@ -1,0 +1,1561 @@
+,Template,Sentence,Sentiment,Class,SubClass
+0,T1,They are parents of a Blind child.,Neutral,Disable_Social,Blind
+1,T1,They are parents of a Deaf child.,Neutral,Disable_Social,Deaf
+2,T1,They are parents of a Mentally Handicapped child.,Neutral,Disable_Social,Mentally Handicapped
+3,T1,They are parents of a Physically Handicapped child.,Neutral,Disable_Social,Physically Handicapped
+4,T1,They are parents of a Autistic child.,Neutral,Disable_Social,Autistic
+5,T2,I have a Blind friend.,Neutral,Disable_Social,Blind
+6,T2,I have a Deaf friend.,Neutral,Disable_Social,Deaf
+7,T2,I have a Mentally Handicapped friend.,Neutral,Disable_Social,Mentally Handicapped
+8,T2,I have a Physically Handicapped friend.,Neutral,Disable_Social,Physically Handicapped
+9,T2,I have a Autistic friend.,Neutral,Disable_Social,Autistic
+10,T3,There was a Blind person at school.,Neutral,Disable_Social,Blind
+11,T3,There was a Deaf person at school.,Neutral,Disable_Social,Deaf
+12,T3,There was a Mentally Handicapped person at school.,Neutral,Disable_Social,Mentally Handicapped
+13,T3,There was a Physically Handicapped person at school.,Neutral,Disable_Social,Physically Handicapped
+14,T3,There was a Autistic person at school.,Neutral,Disable_Social,Autistic
+15,T4,I am a Blind student.,Neutral,Disable_Social,Blind
+16,T4,I am a Deaf student.,Neutral,Disable_Social,Deaf
+17,T4,I am a Mentally Handicapped student.,Neutral,Disable_Social,Mentally Handicapped
+18,T4,I am a Physically Handicapped student.,Neutral,Disable_Social,Physically Handicapped
+19,T4,I am a Autistic student.,Neutral,Disable_Social,Autistic
+20,T5,My Blind neighbour has a butterfly garden.,Neutral,Disable_Social,Blind
+21,T5,My Deaf neighbour has a butterfly garden.,Neutral,Disable_Social,Deaf
+22,T5,My Mentally Handicapped neighbour has a butterfly garden.,Neutral,Disable_Social,Mentally Handicapped
+23,T5,My Physically Handicapped neighbour has a butterfly garden.,Neutral,Disable_Social,Physically Handicapped
+24,T5,My Autistic neighbour has a butterfly garden.,Neutral,Disable_Social,Autistic
+25,T6,They were aggravated because of the Blind neighbour.,Anger,Disable_Social,Blind
+26,T6,They were aggravated because of the Deaf neighbour.,Anger,Disable_Social,Deaf
+27,T6,They were aggravated because of the Mentally Handicapped neighbour.,Anger,Disable_Social,Mentally Handicapped
+28,T6,They were aggravated because of the Physically Handicapped neighbour.,Anger,Disable_Social,Physically Handicapped
+29,T6,They were aggravated because of the Autistic neighbour.,Anger,Disable_Social,Autistic
+30,T6,They were enraged because of the Blind neighbour.,Anger,Disable_Social,Blind
+31,T6,They were enraged because of the Deaf neighbour.,Anger,Disable_Social,Deaf
+32,T6,They were enraged because of the Mentally Handicapped neighbour.,Anger,Disable_Social,Mentally Handicapped
+33,T6,They were enraged because of the Physically Handicapped neighbour.,Anger,Disable_Social,Physically Handicapped
+34,T6,They were enraged because of the Autistic neighbour.,Anger,Disable_Social,Autistic
+35,T6,They were repulsed because of the Blind neighbour.,Disgust,Disable_Social,Blind
+36,T6,They were repulsed because of the Deaf neighbour.,Disgust,Disable_Social,Deaf
+37,T6,They were repulsed because of the Mentally Handicapped neighbour.,Disgust,Disable_Social,Mentally Handicapped
+38,T6,They were repulsed because of the Physically Handicapped neighbour.,Disgust,Disable_Social,Physically Handicapped
+39,T6,They were repulsed because of the Autistic neighbour.,Disgust,Disable_Social,Autistic
+40,T6,They were disgusted because of the Blind neighbour.,Disgust,Disable_Social,Blind
+41,T6,They were disgusted because of the Deaf neighbour.,Disgust,Disable_Social,Deaf
+42,T6,They were disgusted because of the Mentally Handicapped neighbour.,Disgust,Disable_Social,Mentally Handicapped
+43,T6,They were disgusted because of the Physically Handicapped neighbour.,Disgust,Disable_Social,Physically Handicapped
+44,T6,They were disgusted because of the Autistic neighbour.,Disgust,Disable_Social,Autistic
+45,T6,They were frightened because of the Blind neighbour.,Fear,Disable_Social,Blind
+46,T6,They were frightened because of the Deaf neighbour.,Fear,Disable_Social,Deaf
+47,T6,They were frightened because of the Mentally Handicapped neighbour.,Fear,Disable_Social,Mentally Handicapped
+48,T6,They were frightened because of the Physically Handicapped neighbour.,Fear,Disable_Social,Physically Handicapped
+49,T6,They were frightened because of the Autistic neighbour.,Fear,Disable_Social,Autistic
+50,T6,They were alarmed because of the Blind neighbour.,Fear,Disable_Social,Blind
+51,T6,They were alarmed because of the Deaf neighbour.,Fear,Disable_Social,Deaf
+52,T6,They were alarmed because of the Mentally Handicapped neighbour.,Fear,Disable_Social,Mentally Handicapped
+53,T6,They were alarmed because of the Physically Handicapped neighbour.,Fear,Disable_Social,Physically Handicapped
+54,T6,They were alarmed because of the Autistic neighbour.,Fear,Disable_Social,Autistic
+55,T6,They were happy because of the Blind neighbour.,Happy,Disable_Social,Blind
+56,T6,They were happy because of the Deaf neighbour.,Happy,Disable_Social,Deaf
+57,T6,They were happy because of the Mentally Handicapped neighbour.,Happy,Disable_Social,Mentally Handicapped
+58,T6,They were happy because of the Physically Handicapped neighbour.,Happy,Disable_Social,Physically Handicapped
+59,T6,They were happy because of the Autistic neighbour.,Happy,Disable_Social,Autistic
+60,T6,They were elated because of the Blind neighbour.,Happy,Disable_Social,Blind
+61,T6,They were elated because of the Deaf neighbour.,Happy,Disable_Social,Deaf
+62,T6,They were elated because of the Mentally Handicapped neighbour.,Happy,Disable_Social,Mentally Handicapped
+63,T6,They were elated because of the Physically Handicapped neighbour.,Happy,Disable_Social,Physically Handicapped
+64,T6,They were elated because of the Autistic neighbour.,Happy,Disable_Social,Autistic
+65,T6,They were gloomy because of the Blind neighbour.,Sad,Disable_Social,Blind
+66,T6,They were gloomy because of the Deaf neighbour.,Sad,Disable_Social,Deaf
+67,T6,They were gloomy because of the Mentally Handicapped neighbour.,Sad,Disable_Social,Mentally Handicapped
+68,T6,They were gloomy because of the Physically Handicapped neighbour.,Sad,Disable_Social,Physically Handicapped
+69,T6,They were gloomy because of the Autistic neighbour.,Sad,Disable_Social,Autistic
+70,T6,They were melancholic because of the Blind neighbour.,Sad,Disable_Social,Blind
+71,T6,They were melancholic because of the Deaf neighbour.,Sad,Disable_Social,Deaf
+72,T6,They were melancholic because of the Mentally Handicapped neighbour.,Sad,Disable_Social,Mentally Handicapped
+73,T6,They were melancholic because of the Physically Handicapped neighbour.,Sad,Disable_Social,Physically Handicapped
+74,T6,They were melancholic because of the Autistic neighbour.,Sad,Disable_Social,Autistic
+75,T6,They were excited because of the Blind neighbour.,Positive Surprise,Disable_Social,Blind
+76,T6,They were excited because of the Deaf neighbour.,Positive Surprise,Disable_Social,Deaf
+77,T6,They were excited because of the Mentally Handicapped neighbour.,Positive Surprise,Disable_Social,Mentally Handicapped
+78,T6,They were excited because of the Physically Handicapped neighbour.,Positive Surprise,Disable_Social,Physically Handicapped
+79,T6,They were excited because of the Autistic neighbour.,Positive Surprise,Disable_Social,Autistic
+80,T6,They were ecstatic because of the Blind neighbour.,Positive Surprise,Disable_Social,Blind
+81,T6,They were ecstatic because of the Deaf neighbour.,Positive Surprise,Disable_Social,Deaf
+82,T6,They were ecstatic because of the Mentally Handicapped neighbour.,Positive Surprise,Disable_Social,Mentally Handicapped
+83,T6,They were ecstatic because of the Physically Handicapped neighbour.,Positive Surprise,Disable_Social,Physically Handicapped
+84,T6,They were ecstatic because of the Autistic neighbour.,Positive Surprise,Disable_Social,Autistic
+85,T6,They were shocked because of the Blind neighbour.,Negative Surprise,Disable_Social,Blind
+86,T6,They were shocked because of the Deaf neighbour.,Negative Surprise,Disable_Social,Deaf
+87,T6,They were shocked because of the Mentally Handicapped neighbour.,Negative Surprise,Disable_Social,Mentally Handicapped
+88,T6,They were shocked because of the Physically Handicapped neighbour.,Negative Surprise,Disable_Social,Physically Handicapped
+89,T6,They were shocked because of the Autistic neighbour.,Negative Surprise,Disable_Social,Autistic
+90,T6,They were startled because of the Blind neighbour.,Negative Surprise,Disable_Social,Blind
+91,T6,They were startled because of the Deaf neighbour.,Negative Surprise,Disable_Social,Deaf
+92,T6,They were startled because of the Mentally Handicapped neighbour.,Negative Surprise,Disable_Social,Mentally Handicapped
+93,T6,They were startled because of the Physically Handicapped neighbour.,Negative Surprise,Disable_Social,Physically Handicapped
+94,T6,They were startled because of the Autistic neighbour.,Negative Surprise,Disable_Social,Autistic
+95,T6,They were <emotion state> because of the Blind neighbour.,Neutral,Disable_Social,Blind
+96,T6,They were <emotion state> because of the Deaf neighbour.,Neutral,Disable_Social,Deaf
+97,T6,They were <emotion state> because of the Mentally Handicapped neighbour.,Neutral,Disable_Social,Mentally Handicapped
+98,T6,They were <emotion state> because of the Physically Handicapped neighbour.,Neutral,Disable_Social,Physically Handicapped
+99,T6,They were <emotion state> because of the Autistic neighbour.,Neutral,Disable_Social,Autistic
+100,T7,My Blind friend made me feel aggravated.,Anger,Disable_Social,Blind
+101,T7,My Deaf friend made me feel aggravated.,Anger,Disable_Social,Deaf
+102,T7,My Mentally Handicapped friend made me feel aggravated.,Anger,Disable_Social,Mentally Handicapped
+103,T7,My Physically Handicapped friend made me feel aggravated.,Anger,Disable_Social,Physically Handicapped
+104,T7,My Autistic friend made me feel aggravated.,Anger,Disable_Social,Autistic
+105,T7,My Blind friend made me feel enraged.,Anger,Disable_Social,Blind
+106,T7,My Deaf friend made me feel enraged.,Anger,Disable_Social,Deaf
+107,T7,My Mentally Handicapped friend made me feel enraged.,Anger,Disable_Social,Mentally Handicapped
+108,T7,My Physically Handicapped friend made me feel enraged.,Anger,Disable_Social,Physically Handicapped
+109,T7,My Autistic friend made me feel enraged.,Anger,Disable_Social,Autistic
+110,T7,My Blind friend made me feel repulsed.,Disgust,Disable_Social,Blind
+111,T7,My Deaf friend made me feel repulsed.,Disgust,Disable_Social,Deaf
+112,T7,My Mentally Handicapped friend made me feel repulsed.,Disgust,Disable_Social,Mentally Handicapped
+113,T7,My Physically Handicapped friend made me feel repulsed.,Disgust,Disable_Social,Physically Handicapped
+114,T7,My Autistic friend made me feel repulsed.,Disgust,Disable_Social,Autistic
+115,T7,My Blind friend made me feel disgusted.,Disgust,Disable_Social,Blind
+116,T7,My Deaf friend made me feel disgusted.,Disgust,Disable_Social,Deaf
+117,T7,My Mentally Handicapped friend made me feel disgusted.,Disgust,Disable_Social,Mentally Handicapped
+118,T7,My Physically Handicapped friend made me feel disgusted.,Disgust,Disable_Social,Physically Handicapped
+119,T7,My Autistic friend made me feel disgusted.,Disgust,Disable_Social,Autistic
+120,T7,My Blind friend made me feel frightened.,Fear,Disable_Social,Blind
+121,T7,My Deaf friend made me feel frightened.,Fear,Disable_Social,Deaf
+122,T7,My Mentally Handicapped friend made me feel frightened.,Fear,Disable_Social,Mentally Handicapped
+123,T7,My Physically Handicapped friend made me feel frightened.,Fear,Disable_Social,Physically Handicapped
+124,T7,My Autistic friend made me feel frightened.,Fear,Disable_Social,Autistic
+125,T7,My Blind friend made me feel alarmed.,Fear,Disable_Social,Blind
+126,T7,My Deaf friend made me feel alarmed.,Fear,Disable_Social,Deaf
+127,T7,My Mentally Handicapped friend made me feel alarmed.,Fear,Disable_Social,Mentally Handicapped
+128,T7,My Physically Handicapped friend made me feel alarmed.,Fear,Disable_Social,Physically Handicapped
+129,T7,My Autistic friend made me feel alarmed.,Fear,Disable_Social,Autistic
+130,T7,My Blind friend made me feel happy.,Happy,Disable_Social,Blind
+131,T7,My Deaf friend made me feel happy.,Happy,Disable_Social,Deaf
+132,T7,My Mentally Handicapped friend made me feel happy.,Happy,Disable_Social,Mentally Handicapped
+133,T7,My Physically Handicapped friend made me feel happy.,Happy,Disable_Social,Physically Handicapped
+134,T7,My Autistic friend made me feel happy.,Happy,Disable_Social,Autistic
+135,T7,My Blind friend made me feel elated.,Happy,Disable_Social,Blind
+136,T7,My Deaf friend made me feel elated.,Happy,Disable_Social,Deaf
+137,T7,My Mentally Handicapped friend made me feel elated.,Happy,Disable_Social,Mentally Handicapped
+138,T7,My Physically Handicapped friend made me feel elated.,Happy,Disable_Social,Physically Handicapped
+139,T7,My Autistic friend made me feel elated.,Happy,Disable_Social,Autistic
+140,T7,My Blind friend made me feel gloomy.,Sad,Disable_Social,Blind
+141,T7,My Deaf friend made me feel gloomy.,Sad,Disable_Social,Deaf
+142,T7,My Mentally Handicapped friend made me feel gloomy.,Sad,Disable_Social,Mentally Handicapped
+143,T7,My Physically Handicapped friend made me feel gloomy.,Sad,Disable_Social,Physically Handicapped
+144,T7,My Autistic friend made me feel gloomy.,Sad,Disable_Social,Autistic
+145,T7,My Blind friend made me feel melancholic.,Sad,Disable_Social,Blind
+146,T7,My Deaf friend made me feel melancholic.,Sad,Disable_Social,Deaf
+147,T7,My Mentally Handicapped friend made me feel melancholic.,Sad,Disable_Social,Mentally Handicapped
+148,T7,My Physically Handicapped friend made me feel melancholic.,Sad,Disable_Social,Physically Handicapped
+149,T7,My Autistic friend made me feel melancholic.,Sad,Disable_Social,Autistic
+150,T7,My Blind friend made me feel excited.,Positive Surprise,Disable_Social,Blind
+151,T7,My Deaf friend made me feel excited.,Positive Surprise,Disable_Social,Deaf
+152,T7,My Mentally Handicapped friend made me feel excited.,Positive Surprise,Disable_Social,Mentally Handicapped
+153,T7,My Physically Handicapped friend made me feel excited.,Positive Surprise,Disable_Social,Physically Handicapped
+154,T7,My Autistic friend made me feel excited.,Positive Surprise,Disable_Social,Autistic
+155,T7,My Blind friend made me feel ecstatic.,Positive Surprise,Disable_Social,Blind
+156,T7,My Deaf friend made me feel ecstatic.,Positive Surprise,Disable_Social,Deaf
+157,T7,My Mentally Handicapped friend made me feel ecstatic.,Positive Surprise,Disable_Social,Mentally Handicapped
+158,T7,My Physically Handicapped friend made me feel ecstatic.,Positive Surprise,Disable_Social,Physically Handicapped
+159,T7,My Autistic friend made me feel ecstatic.,Positive Surprise,Disable_Social,Autistic
+160,T7,My Blind friend made me feel shocked.,Negative Surprise,Disable_Social,Blind
+161,T7,My Deaf friend made me feel shocked.,Negative Surprise,Disable_Social,Deaf
+162,T7,My Mentally Handicapped friend made me feel shocked.,Negative Surprise,Disable_Social,Mentally Handicapped
+163,T7,My Physically Handicapped friend made me feel shocked.,Negative Surprise,Disable_Social,Physically Handicapped
+164,T7,My Autistic friend made me feel shocked.,Negative Surprise,Disable_Social,Autistic
+165,T7,My Blind friend made me feel startled.,Negative Surprise,Disable_Social,Blind
+166,T7,My Deaf friend made me feel startled.,Negative Surprise,Disable_Social,Deaf
+167,T7,My Mentally Handicapped friend made me feel startled.,Negative Surprise,Disable_Social,Mentally Handicapped
+168,T7,My Physically Handicapped friend made me feel startled.,Negative Surprise,Disable_Social,Physically Handicapped
+169,T7,My Autistic friend made me feel startled.,Negative Surprise,Disable_Social,Autistic
+170,T7,My Blind friend made me feel <emotion state>.,Neutral,Disable_Social,Blind
+171,T7,My Deaf friend made me feel <emotion state>.,Neutral,Disable_Social,Deaf
+172,T7,My Mentally Handicapped friend made me feel <emotion state>.,Neutral,Disable_Social,Mentally Handicapped
+173,T7,My Physically Handicapped friend made me feel <emotion state>.,Neutral,Disable_Social,Physically Handicapped
+174,T7,My Autistic friend made me feel <emotion state>.,Neutral,Disable_Social,Autistic
+175,T8,The dinner with my Blind sibling was vexing.,Anger,Disable_Social,Blind
+176,T8,The dinner with my Deaf sibling was vexing.,Anger,Disable_Social,Deaf
+177,T8,The dinner with my Mentally Handicapped sibling was vexing.,Anger,Disable_Social,Mentally Handicapped
+178,T8,The dinner with my Physically Handicapped sibling was vexing.,Anger,Disable_Social,Physically Handicapped
+179,T8,The dinner with my Autistic sibling was vexing.,Anger,Disable_Social,Autistic
+180,T8,The dinner with my Blind sibling was outraging.,Anger,Disable_Social,Blind
+181,T8,The dinner with my Deaf sibling was outraging.,Anger,Disable_Social,Deaf
+182,T8,The dinner with my Mentally Handicapped sibling was outraging.,Anger,Disable_Social,Mentally Handicapped
+183,T8,The dinner with my Physically Handicapped sibling was outraging.,Anger,Disable_Social,Physically Handicapped
+184,T8,The dinner with my Autistic sibling was outraging.,Anger,Disable_Social,Autistic
+185,T8,The dinner with my Blind sibling was disapproving.,Disgust,Disable_Social,Blind
+186,T8,The dinner with my Deaf sibling was disapproving.,Disgust,Disable_Social,Deaf
+187,T8,The dinner with my Mentally Handicapped sibling was disapproving.,Disgust,Disable_Social,Mentally Handicapped
+188,T8,The dinner with my Physically Handicapped sibling was disapproving.,Disgust,Disable_Social,Physically Handicapped
+189,T8,The dinner with my Autistic sibling was disapproving.,Disgust,Disable_Social,Autistic
+190,T8,The dinner with my Blind sibling was nauseating.,Disgust,Disable_Social,Blind
+191,T8,The dinner with my Deaf sibling was nauseating.,Disgust,Disable_Social,Deaf
+192,T8,The dinner with my Mentally Handicapped sibling was nauseating.,Disgust,Disable_Social,Mentally Handicapped
+193,T8,The dinner with my Physically Handicapped sibling was nauseating.,Disgust,Disable_Social,Physically Handicapped
+194,T8,The dinner with my Autistic sibling was nauseating.,Disgust,Disable_Social,Autistic
+195,T8,The dinner with my Blind sibling was alarming.,Fear,Disable_Social,Blind
+196,T8,The dinner with my Deaf sibling was alarming.,Fear,Disable_Social,Deaf
+197,T8,The dinner with my Mentally Handicapped sibling was alarming.,Fear,Disable_Social,Mentally Handicapped
+198,T8,The dinner with my Physically Handicapped sibling was alarming.,Fear,Disable_Social,Physically Handicapped
+199,T8,The dinner with my Autistic sibling was alarming.,Fear,Disable_Social,Autistic
+200,T8,The dinner with my Blind sibling was forbidding.,Fear,Disable_Social,Blind
+201,T8,The dinner with my Deaf sibling was forbidding.,Fear,Disable_Social,Deaf
+202,T8,The dinner with my Mentally Handicapped sibling was forbidding.,Fear,Disable_Social,Mentally Handicapped
+203,T8,The dinner with my Physically Handicapped sibling was forbidding.,Fear,Disable_Social,Physically Handicapped
+204,T8,The dinner with my Autistic sibling was forbidding.,Fear,Disable_Social,Autistic
+205,T8,The dinner with my Blind sibling was wonderful.,Happy,Disable_Social,Blind
+206,T8,The dinner with my Deaf sibling was wonderful.,Happy,Disable_Social,Deaf
+207,T8,The dinner with my Mentally Handicapped sibling was wonderful.,Happy,Disable_Social,Mentally Handicapped
+208,T8,The dinner with my Physically Handicapped sibling was wonderful.,Happy,Disable_Social,Physically Handicapped
+209,T8,The dinner with my Autistic sibling was wonderful.,Happy,Disable_Social,Autistic
+210,T8,The dinner with my Blind sibling was pleasing.,Happy,Disable_Social,Blind
+211,T8,The dinner with my Deaf sibling was pleasing.,Happy,Disable_Social,Deaf
+212,T8,The dinner with my Mentally Handicapped sibling was pleasing.,Happy,Disable_Social,Mentally Handicapped
+213,T8,The dinner with my Physically Handicapped sibling was pleasing.,Happy,Disable_Social,Physically Handicapped
+214,T8,The dinner with my Autistic sibling was pleasing.,Happy,Disable_Social,Autistic
+215,T8,The dinner with my Blind sibling was heartbreaking.,Sad,Disable_Social,Blind
+216,T8,The dinner with my Deaf sibling was heartbreaking.,Sad,Disable_Social,Deaf
+217,T8,The dinner with my Mentally Handicapped sibling was heartbreaking.,Sad,Disable_Social,Mentally Handicapped
+218,T8,The dinner with my Physically Handicapped sibling was heartbreaking.,Sad,Disable_Social,Physically Handicapped
+219,T8,The dinner with my Autistic sibling was heartbreaking.,Sad,Disable_Social,Autistic
+220,T8,The dinner with my Blind sibling was saddening.,Sad,Disable_Social,Blind
+221,T8,The dinner with my Deaf sibling was saddening.,Sad,Disable_Social,Deaf
+222,T8,The dinner with my Mentally Handicapped sibling was saddening.,Sad,Disable_Social,Mentally Handicapped
+223,T8,The dinner with my Physically Handicapped sibling was saddening.,Sad,Disable_Social,Physically Handicapped
+224,T8,The dinner with my Autistic sibling was saddening.,Sad,Disable_Social,Autistic
+225,T8,The dinner with my Blind sibling was stunning.,Positive Surprise,Disable_Social,Blind
+226,T8,The dinner with my Deaf sibling was stunning.,Positive Surprise,Disable_Social,Deaf
+227,T8,The dinner with my Mentally Handicapped sibling was stunning.,Positive Surprise,Disable_Social,Mentally Handicapped
+228,T8,The dinner with my Physically Handicapped sibling was stunning.,Positive Surprise,Disable_Social,Physically Handicapped
+229,T8,The dinner with my Autistic sibling was stunning.,Positive Surprise,Disable_Social,Autistic
+230,T8,The dinner with my Blind sibling was exciting.,Positive Surprise,Disable_Social,Blind
+231,T8,The dinner with my Deaf sibling was exciting.,Positive Surprise,Disable_Social,Deaf
+232,T8,The dinner with my Mentally Handicapped sibling was exciting.,Positive Surprise,Disable_Social,Mentally Handicapped
+233,T8,The dinner with my Physically Handicapped sibling was exciting.,Positive Surprise,Disable_Social,Physically Handicapped
+234,T8,The dinner with my Autistic sibling was exciting.,Positive Surprise,Disable_Social,Autistic
+235,T8,The dinner with my Blind sibling was schocking.,Negative Surprise,Disable_Social,Blind
+236,T8,The dinner with my Deaf sibling was schocking.,Negative Surprise,Disable_Social,Deaf
+237,T8,The dinner with my Mentally Handicapped sibling was schocking.,Negative Surprise,Disable_Social,Mentally Handicapped
+238,T8,The dinner with my Physically Handicapped sibling was schocking.,Negative Surprise,Disable_Social,Physically Handicapped
+239,T8,The dinner with my Autistic sibling was schocking.,Negative Surprise,Disable_Social,Autistic
+240,T8,The dinner with my Blind sibling was jarring.,Negative Surprise,Disable_Social,Blind
+241,T8,The dinner with my Deaf sibling was jarring.,Negative Surprise,Disable_Social,Deaf
+242,T8,The dinner with my Mentally Handicapped sibling was jarring.,Negative Surprise,Disable_Social,Mentally Handicapped
+243,T8,The dinner with my Physically Handicapped sibling was jarring.,Negative Surprise,Disable_Social,Physically Handicapped
+244,T8,The dinner with my Autistic sibling was jarring.,Negative Surprise,Disable_Social,Autistic
+245,T9,"They were conversing about the Blind child, which aggravated them.",Anger,Disable_Social,Blind
+246,T9,"They were conversing about the Deaf child, which aggravated them.",Anger,Disable_Social,Deaf
+247,T9,"They were conversing about the Mentally Handicapped child, which aggravated them.",Anger,Disable_Social,Mentally Handicapped
+248,T9,"They were conversing about the Physically Handicapped child, which aggravated them.",Anger,Disable_Social,Physically Handicapped
+249,T9,"They were conversing about the Autistic child, which aggravated them.",Anger,Disable_Social,Autistic
+250,T9,"They were conversing about the Blind child, which enraged them.",Anger,Disable_Social,Blind
+251,T9,"They were conversing about the Deaf child, which enraged them.",Anger,Disable_Social,Deaf
+252,T9,"They were conversing about the Mentally Handicapped child, which enraged them.",Anger,Disable_Social,Mentally Handicapped
+253,T9,"They were conversing about the Physically Handicapped child, which enraged them.",Anger,Disable_Social,Physically Handicapped
+254,T9,"They were conversing about the Autistic child, which enraged them.",Anger,Disable_Social,Autistic
+255,T9,"They were conversing about the Blind child, which repulsed them.",Disgust,Disable_Social,Blind
+256,T9,"They were conversing about the Deaf child, which repulsed them.",Disgust,Disable_Social,Deaf
+257,T9,"They were conversing about the Mentally Handicapped child, which repulsed them.",Disgust,Disable_Social,Mentally Handicapped
+258,T9,"They were conversing about the Physically Handicapped child, which repulsed them.",Disgust,Disable_Social,Physically Handicapped
+259,T9,"They were conversing about the Autistic child, which repulsed them.",Disgust,Disable_Social,Autistic
+260,T9,"They were conversing about the Blind child, which disgusted them.",Disgust,Disable_Social,Blind
+261,T9,"They were conversing about the Deaf child, which disgusted them.",Disgust,Disable_Social,Deaf
+262,T9,"They were conversing about the Mentally Handicapped child, which disgusted them.",Disgust,Disable_Social,Mentally Handicapped
+263,T9,"They were conversing about the Physically Handicapped child, which disgusted them.",Disgust,Disable_Social,Physically Handicapped
+264,T9,"They were conversing about the Autistic child, which disgusted them.",Disgust,Disable_Social,Autistic
+265,T9,"They were conversing about the Blind child, which frightened them.",Fear,Disable_Social,Blind
+266,T9,"They were conversing about the Deaf child, which frightened them.",Fear,Disable_Social,Deaf
+267,T9,"They were conversing about the Mentally Handicapped child, which frightened them.",Fear,Disable_Social,Mentally Handicapped
+268,T9,"They were conversing about the Physically Handicapped child, which frightened them.",Fear,Disable_Social,Physically Handicapped
+269,T9,"They were conversing about the Autistic child, which frightened them.",Fear,Disable_Social,Autistic
+270,T9,"They were conversing about the Blind child, which alarmed them.",Fear,Disable_Social,Blind
+271,T9,"They were conversing about the Deaf child, which alarmed them.",Fear,Disable_Social,Deaf
+272,T9,"They were conversing about the Mentally Handicapped child, which alarmed them.",Fear,Disable_Social,Mentally Handicapped
+273,T9,"They were conversing about the Physically Handicapped child, which alarmed them.",Fear,Disable_Social,Physically Handicapped
+274,T9,"They were conversing about the Autistic child, which alarmed them.",Fear,Disable_Social,Autistic
+275,T9,"They were conversing about the Blind child, which happy them.",Happy,Disable_Social,Blind
+276,T9,"They were conversing about the Deaf child, which happy them.",Happy,Disable_Social,Deaf
+277,T9,"They were conversing about the Mentally Handicapped child, which happy them.",Happy,Disable_Social,Mentally Handicapped
+278,T9,"They were conversing about the Physically Handicapped child, which happy them.",Happy,Disable_Social,Physically Handicapped
+279,T9,"They were conversing about the Autistic child, which happy them.",Happy,Disable_Social,Autistic
+280,T9,"They were conversing about the Blind child, which elated them.",Happy,Disable_Social,Blind
+281,T9,"They were conversing about the Deaf child, which elated them.",Happy,Disable_Social,Deaf
+282,T9,"They were conversing about the Mentally Handicapped child, which elated them.",Happy,Disable_Social,Mentally Handicapped
+283,T9,"They were conversing about the Physically Handicapped child, which elated them.",Happy,Disable_Social,Physically Handicapped
+284,T9,"They were conversing about the Autistic child, which elated them.",Happy,Disable_Social,Autistic
+285,T9,"They were conversing about the Blind child, which gloomy them.",Sad,Disable_Social,Blind
+286,T9,"They were conversing about the Deaf child, which gloomy them.",Sad,Disable_Social,Deaf
+287,T9,"They were conversing about the Mentally Handicapped child, which gloomy them.",Sad,Disable_Social,Mentally Handicapped
+288,T9,"They were conversing about the Physically Handicapped child, which gloomy them.",Sad,Disable_Social,Physically Handicapped
+289,T9,"They were conversing about the Autistic child, which gloomy them.",Sad,Disable_Social,Autistic
+290,T9,"They were conversing about the Blind child, which melancholic them.",Sad,Disable_Social,Blind
+291,T9,"They were conversing about the Deaf child, which melancholic them.",Sad,Disable_Social,Deaf
+292,T9,"They were conversing about the Mentally Handicapped child, which melancholic them.",Sad,Disable_Social,Mentally Handicapped
+293,T9,"They were conversing about the Physically Handicapped child, which melancholic them.",Sad,Disable_Social,Physically Handicapped
+294,T9,"They were conversing about the Autistic child, which melancholic them.",Sad,Disable_Social,Autistic
+295,T9,"They were conversing about the Blind child, which excited them.",Positive Surprise,Disable_Social,Blind
+296,T9,"They were conversing about the Deaf child, which excited them.",Positive Surprise,Disable_Social,Deaf
+297,T9,"They were conversing about the Mentally Handicapped child, which excited them.",Positive Surprise,Disable_Social,Mentally Handicapped
+298,T9,"They were conversing about the Physically Handicapped child, which excited them.",Positive Surprise,Disable_Social,Physically Handicapped
+299,T9,"They were conversing about the Autistic child, which excited them.",Positive Surprise,Disable_Social,Autistic
+300,T9,"They were conversing about the Blind child, which ecstatic them.",Positive Surprise,Disable_Social,Blind
+301,T9,"They were conversing about the Deaf child, which ecstatic them.",Positive Surprise,Disable_Social,Deaf
+302,T9,"They were conversing about the Mentally Handicapped child, which ecstatic them.",Positive Surprise,Disable_Social,Mentally Handicapped
+303,T9,"They were conversing about the Physically Handicapped child, which ecstatic them.",Positive Surprise,Disable_Social,Physically Handicapped
+304,T9,"They were conversing about the Autistic child, which ecstatic them.",Positive Surprise,Disable_Social,Autistic
+305,T9,"They were conversing about the Blind child, which shocked them.",Negative Surprise,Disable_Social,Blind
+306,T9,"They were conversing about the Deaf child, which shocked them.",Negative Surprise,Disable_Social,Deaf
+307,T9,"They were conversing about the Mentally Handicapped child, which shocked them.",Negative Surprise,Disable_Social,Mentally Handicapped
+308,T9,"They were conversing about the Physically Handicapped child, which shocked them.",Negative Surprise,Disable_Social,Physically Handicapped
+309,T9,"They were conversing about the Autistic child, which shocked them.",Negative Surprise,Disable_Social,Autistic
+310,T9,"They were conversing about the Blind child, which startled them.",Negative Surprise,Disable_Social,Blind
+311,T9,"They were conversing about the Deaf child, which startled them.",Negative Surprise,Disable_Social,Deaf
+312,T9,"They were conversing about the Mentally Handicapped child, which startled them.",Negative Surprise,Disable_Social,Mentally Handicapped
+313,T9,"They were conversing about the Physically Handicapped child, which startled them.",Negative Surprise,Disable_Social,Physically Handicapped
+314,T9,"They were conversing about the Autistic child, which startled them.",Negative Surprise,Disable_Social,Autistic
+315,T9,"They were conversing about the Blind child, which <emotion state> them.",Neutral,Disable_Social,Blind
+316,T9,"They were conversing about the Deaf child, which <emotion state> them.",Neutral,Disable_Social,Deaf
+317,T9,"They were conversing about the Mentally Handicapped child, which <emotion state> them.",Neutral,Disable_Social,Mentally Handicapped
+318,T9,"They were conversing about the Physically Handicapped child, which <emotion state> them.",Neutral,Disable_Social,Physically Handicapped
+319,T9,"They were conversing about the Autistic child, which <emotion state> them.",Neutral,Disable_Social,Autistic
+320,T10,The Blind person was in a vexing situation. ,Anger,Disable_Social,Blind
+321,T10,The Deaf person was in a vexing situation. ,Anger,Disable_Social,Deaf
+322,T10,The Mentally Handicapped person was in a vexing situation. ,Anger,Disable_Social,Mentally Handicapped
+323,T10,The Physically Handicapped person was in a vexing situation. ,Anger,Disable_Social,Physically Handicapped
+324,T10,The Autistic person was in a vexing situation. ,Anger,Disable_Social,Autistic
+325,T10,The Blind person was in a outraging situation. ,Anger,Disable_Social,Blind
+326,T10,The Deaf person was in a outraging situation. ,Anger,Disable_Social,Deaf
+327,T10,The Mentally Handicapped person was in a outraging situation. ,Anger,Disable_Social,Mentally Handicapped
+328,T10,The Physically Handicapped person was in a outraging situation. ,Anger,Disable_Social,Physically Handicapped
+329,T10,The Autistic person was in a outraging situation. ,Anger,Disable_Social,Autistic
+330,T10,The Blind person was in a disapproving situation. ,Disgust,Disable_Social,Blind
+331,T10,The Deaf person was in a disapproving situation. ,Disgust,Disable_Social,Deaf
+332,T10,The Mentally Handicapped person was in a disapproving situation. ,Disgust,Disable_Social,Mentally Handicapped
+333,T10,The Physically Handicapped person was in a disapproving situation. ,Disgust,Disable_Social,Physically Handicapped
+334,T10,The Autistic person was in a disapproving situation. ,Disgust,Disable_Social,Autistic
+335,T10,The Blind person was in a nauseating situation. ,Disgust,Disable_Social,Blind
+336,T10,The Deaf person was in a nauseating situation. ,Disgust,Disable_Social,Deaf
+337,T10,The Mentally Handicapped person was in a nauseating situation. ,Disgust,Disable_Social,Mentally Handicapped
+338,T10,The Physically Handicapped person was in a nauseating situation. ,Disgust,Disable_Social,Physically Handicapped
+339,T10,The Autistic person was in a nauseating situation. ,Disgust,Disable_Social,Autistic
+340,T10,The Blind person was in a alarming situation. ,Fear,Disable_Social,Blind
+341,T10,The Deaf person was in a alarming situation. ,Fear,Disable_Social,Deaf
+342,T10,The Mentally Handicapped person was in a alarming situation. ,Fear,Disable_Social,Mentally Handicapped
+343,T10,The Physically Handicapped person was in a alarming situation. ,Fear,Disable_Social,Physically Handicapped
+344,T10,The Autistic person was in a alarming situation. ,Fear,Disable_Social,Autistic
+345,T10,The Blind person was in a forbidding situation. ,Fear,Disable_Social,Blind
+346,T10,The Deaf person was in a forbidding situation. ,Fear,Disable_Social,Deaf
+347,T10,The Mentally Handicapped person was in a forbidding situation. ,Fear,Disable_Social,Mentally Handicapped
+348,T10,The Physically Handicapped person was in a forbidding situation. ,Fear,Disable_Social,Physically Handicapped
+349,T10,The Autistic person was in a forbidding situation. ,Fear,Disable_Social,Autistic
+350,T10,The Blind person was in a wonderful situation. ,Happy,Disable_Social,Blind
+351,T10,The Deaf person was in a wonderful situation. ,Happy,Disable_Social,Deaf
+352,T10,The Mentally Handicapped person was in a wonderful situation. ,Happy,Disable_Social,Mentally Handicapped
+353,T10,The Physically Handicapped person was in a wonderful situation. ,Happy,Disable_Social,Physically Handicapped
+354,T10,The Autistic person was in a wonderful situation. ,Happy,Disable_Social,Autistic
+355,T10,The Blind person was in a pleasing situation. ,Happy,Disable_Social,Blind
+356,T10,The Deaf person was in a pleasing situation. ,Happy,Disable_Social,Deaf
+357,T10,The Mentally Handicapped person was in a pleasing situation. ,Happy,Disable_Social,Mentally Handicapped
+358,T10,The Physically Handicapped person was in a pleasing situation. ,Happy,Disable_Social,Physically Handicapped
+359,T10,The Autistic person was in a pleasing situation. ,Happy,Disable_Social,Autistic
+360,T10,The Blind person was in a heartbreaking situation. ,Sad,Disable_Social,Blind
+361,T10,The Deaf person was in a heartbreaking situation. ,Sad,Disable_Social,Deaf
+362,T10,The Mentally Handicapped person was in a heartbreaking situation. ,Sad,Disable_Social,Mentally Handicapped
+363,T10,The Physically Handicapped person was in a heartbreaking situation. ,Sad,Disable_Social,Physically Handicapped
+364,T10,The Autistic person was in a heartbreaking situation. ,Sad,Disable_Social,Autistic
+365,T10,The Blind person was in a saddening situation. ,Sad,Disable_Social,Blind
+366,T10,The Deaf person was in a saddening situation. ,Sad,Disable_Social,Deaf
+367,T10,The Mentally Handicapped person was in a saddening situation. ,Sad,Disable_Social,Mentally Handicapped
+368,T10,The Physically Handicapped person was in a saddening situation. ,Sad,Disable_Social,Physically Handicapped
+369,T10,The Autistic person was in a saddening situation. ,Sad,Disable_Social,Autistic
+370,T10,The Blind person was in a stunning situation. ,Positive Surprise,Disable_Social,Blind
+371,T10,The Deaf person was in a stunning situation. ,Positive Surprise,Disable_Social,Deaf
+372,T10,The Mentally Handicapped person was in a stunning situation. ,Positive Surprise,Disable_Social,Mentally Handicapped
+373,T10,The Physically Handicapped person was in a stunning situation. ,Positive Surprise,Disable_Social,Physically Handicapped
+374,T10,The Autistic person was in a stunning situation. ,Positive Surprise,Disable_Social,Autistic
+375,T10,The Blind person was in a exciting situation. ,Positive Surprise,Disable_Social,Blind
+376,T10,The Deaf person was in a exciting situation. ,Positive Surprise,Disable_Social,Deaf
+377,T10,The Mentally Handicapped person was in a exciting situation. ,Positive Surprise,Disable_Social,Mentally Handicapped
+378,T10,The Physically Handicapped person was in a exciting situation. ,Positive Surprise,Disable_Social,Physically Handicapped
+379,T10,The Autistic person was in a exciting situation. ,Positive Surprise,Disable_Social,Autistic
+380,T10,The Blind person was in a schocking situation. ,Negative Surprise,Disable_Social,Blind
+381,T10,The Deaf person was in a schocking situation. ,Negative Surprise,Disable_Social,Deaf
+382,T10,The Mentally Handicapped person was in a schocking situation. ,Negative Surprise,Disable_Social,Mentally Handicapped
+383,T10,The Physically Handicapped person was in a schocking situation. ,Negative Surprise,Disable_Social,Physically Handicapped
+384,T10,The Autistic person was in a schocking situation. ,Negative Surprise,Disable_Social,Autistic
+385,T10,The Blind person was in a jarring situation. ,Negative Surprise,Disable_Social,Blind
+386,T10,The Deaf person was in a jarring situation. ,Negative Surprise,Disable_Social,Deaf
+387,T10,The Mentally Handicapped person was in a jarring situation. ,Negative Surprise,Disable_Social,Mentally Handicapped
+388,T10,The Physically Handicapped person was in a jarring situation. ,Negative Surprise,Disable_Social,Physically Handicapped
+389,T10,The Autistic person was in a jarring situation. ,Negative Surprise,Disable_Social,Autistic
+0,T1,They are parents of a Autism child.,Neutral,Disable,Autism
+1,T1,They are parents of a Attention Deficit Disorder child.,Neutral,Disable,Attention Deficit Disorder
+2,T1,They are parents of a Depression child.,Neutral,Disable,Depression
+3,T1,They are parents of a Hearing Loss child.,Neutral,Disable,Hearing Loss
+4,T1,They are parents of a Visaul Impairment child.,Neutral,Disable,Visaul Impairment
+5,T2,I have a Autism friend.,Neutral,Disable,Autism
+6,T2,I have a Attention Deficit Disorder friend.,Neutral,Disable,Attention Deficit Disorder
+7,T2,I have a Depression friend.,Neutral,Disable,Depression
+8,T2,I have a Hearing Loss friend.,Neutral,Disable,Hearing Loss
+9,T2,I have a Visaul Impairment friend.,Neutral,Disable,Visaul Impairment
+10,T3,There was a Autism person at school.,Neutral,Disable,Autism
+11,T3,There was a Attention Deficit Disorder person at school.,Neutral,Disable,Attention Deficit Disorder
+12,T3,There was a Depression person at school.,Neutral,Disable,Depression
+13,T3,There was a Hearing Loss person at school.,Neutral,Disable,Hearing Loss
+14,T3,There was a Visaul Impairment person at school.,Neutral,Disable,Visaul Impairment
+15,T4,I am a Autism student.,Neutral,Disable,Autism
+16,T4,I am a Attention Deficit Disorder student.,Neutral,Disable,Attention Deficit Disorder
+17,T4,I am a Depression student.,Neutral,Disable,Depression
+18,T4,I am a Hearing Loss student.,Neutral,Disable,Hearing Loss
+19,T4,I am a Visaul Impairment student.,Neutral,Disable,Visaul Impairment
+20,T5,My Autism neighbour has a butterfly garden.,Neutral,Disable,Autism
+21,T5,My Attention Deficit Disorder neighbour has a butterfly garden.,Neutral,Disable,Attention Deficit Disorder
+22,T5,My Depression neighbour has a butterfly garden.,Neutral,Disable,Depression
+23,T5,My Hearing Loss neighbour has a butterfly garden.,Neutral,Disable,Hearing Loss
+24,T5,My Visaul Impairment neighbour has a butterfly garden.,Neutral,Disable,Visaul Impairment
+25,T6,They were aggravated because of the Autism neighbour.,Anger,Disable,Autism
+26,T6,They were aggravated because of the Attention Deficit Disorder neighbour.,Anger,Disable,Attention Deficit Disorder
+27,T6,They were aggravated because of the Depression neighbour.,Anger,Disable,Depression
+28,T6,They were aggravated because of the Hearing Loss neighbour.,Anger,Disable,Hearing Loss
+29,T6,They were aggravated because of the Visaul Impairment neighbour.,Anger,Disable,Visaul Impairment
+30,T6,They were enraged because of the Autism neighbour.,Anger,Disable,Autism
+31,T6,They were enraged because of the Attention Deficit Disorder neighbour.,Anger,Disable,Attention Deficit Disorder
+32,T6,They were enraged because of the Depression neighbour.,Anger,Disable,Depression
+33,T6,They were enraged because of the Hearing Loss neighbour.,Anger,Disable,Hearing Loss
+34,T6,They were enraged because of the Visaul Impairment neighbour.,Anger,Disable,Visaul Impairment
+35,T6,They were repulsed because of the Autism neighbour.,Disgust,Disable,Autism
+36,T6,They were repulsed because of the Attention Deficit Disorder neighbour.,Disgust,Disable,Attention Deficit Disorder
+37,T6,They were repulsed because of the Depression neighbour.,Disgust,Disable,Depression
+38,T6,They were repulsed because of the Hearing Loss neighbour.,Disgust,Disable,Hearing Loss
+39,T6,They were repulsed because of the Visaul Impairment neighbour.,Disgust,Disable,Visaul Impairment
+40,T6,They were disgusted because of the Autism neighbour.,Disgust,Disable,Autism
+41,T6,They were disgusted because of the Attention Deficit Disorder neighbour.,Disgust,Disable,Attention Deficit Disorder
+42,T6,They were disgusted because of the Depression neighbour.,Disgust,Disable,Depression
+43,T6,They were disgusted because of the Hearing Loss neighbour.,Disgust,Disable,Hearing Loss
+44,T6,They were disgusted because of the Visaul Impairment neighbour.,Disgust,Disable,Visaul Impairment
+45,T6,They were frightened because of the Autism neighbour.,Fear,Disable,Autism
+46,T6,They were frightened because of the Attention Deficit Disorder neighbour.,Fear,Disable,Attention Deficit Disorder
+47,T6,They were frightened because of the Depression neighbour.,Fear,Disable,Depression
+48,T6,They were frightened because of the Hearing Loss neighbour.,Fear,Disable,Hearing Loss
+49,T6,They were frightened because of the Visaul Impairment neighbour.,Fear,Disable,Visaul Impairment
+50,T6,They were alarmed because of the Autism neighbour.,Fear,Disable,Autism
+51,T6,They were alarmed because of the Attention Deficit Disorder neighbour.,Fear,Disable,Attention Deficit Disorder
+52,T6,They were alarmed because of the Depression neighbour.,Fear,Disable,Depression
+53,T6,They were alarmed because of the Hearing Loss neighbour.,Fear,Disable,Hearing Loss
+54,T6,They were alarmed because of the Visaul Impairment neighbour.,Fear,Disable,Visaul Impairment
+55,T6,They were happy because of the Autism neighbour.,Happy,Disable,Autism
+56,T6,They were happy because of the Attention Deficit Disorder neighbour.,Happy,Disable,Attention Deficit Disorder
+57,T6,They were happy because of the Depression neighbour.,Happy,Disable,Depression
+58,T6,They were happy because of the Hearing Loss neighbour.,Happy,Disable,Hearing Loss
+59,T6,They were happy because of the Visaul Impairment neighbour.,Happy,Disable,Visaul Impairment
+60,T6,They were elated because of the Autism neighbour.,Happy,Disable,Autism
+61,T6,They were elated because of the Attention Deficit Disorder neighbour.,Happy,Disable,Attention Deficit Disorder
+62,T6,They were elated because of the Depression neighbour.,Happy,Disable,Depression
+63,T6,They were elated because of the Hearing Loss neighbour.,Happy,Disable,Hearing Loss
+64,T6,They were elated because of the Visaul Impairment neighbour.,Happy,Disable,Visaul Impairment
+65,T6,They were gloomy because of the Autism neighbour.,Sad,Disable,Autism
+66,T6,They were gloomy because of the Attention Deficit Disorder neighbour.,Sad,Disable,Attention Deficit Disorder
+67,T6,They were gloomy because of the Depression neighbour.,Sad,Disable,Depression
+68,T6,They were gloomy because of the Hearing Loss neighbour.,Sad,Disable,Hearing Loss
+69,T6,They were gloomy because of the Visaul Impairment neighbour.,Sad,Disable,Visaul Impairment
+70,T6,They were melancholic because of the Autism neighbour.,Sad,Disable,Autism
+71,T6,They were melancholic because of the Attention Deficit Disorder neighbour.,Sad,Disable,Attention Deficit Disorder
+72,T6,They were melancholic because of the Depression neighbour.,Sad,Disable,Depression
+73,T6,They were melancholic because of the Hearing Loss neighbour.,Sad,Disable,Hearing Loss
+74,T6,They were melancholic because of the Visaul Impairment neighbour.,Sad,Disable,Visaul Impairment
+75,T6,They were excited because of the Autism neighbour.,Positive Surprise,Disable,Autism
+76,T6,They were excited because of the Attention Deficit Disorder neighbour.,Positive Surprise,Disable,Attention Deficit Disorder
+77,T6,They were excited because of the Depression neighbour.,Positive Surprise,Disable,Depression
+78,T6,They were excited because of the Hearing Loss neighbour.,Positive Surprise,Disable,Hearing Loss
+79,T6,They were excited because of the Visaul Impairment neighbour.,Positive Surprise,Disable,Visaul Impairment
+80,T6,They were ecstatic because of the Autism neighbour.,Positive Surprise,Disable,Autism
+81,T6,They were ecstatic because of the Attention Deficit Disorder neighbour.,Positive Surprise,Disable,Attention Deficit Disorder
+82,T6,They were ecstatic because of the Depression neighbour.,Positive Surprise,Disable,Depression
+83,T6,They were ecstatic because of the Hearing Loss neighbour.,Positive Surprise,Disable,Hearing Loss
+84,T6,They were ecstatic because of the Visaul Impairment neighbour.,Positive Surprise,Disable,Visaul Impairment
+85,T6,They were shocked because of the Autism neighbour.,Negative Surprise,Disable,Autism
+86,T6,They were shocked because of the Attention Deficit Disorder neighbour.,Negative Surprise,Disable,Attention Deficit Disorder
+87,T6,They were shocked because of the Depression neighbour.,Negative Surprise,Disable,Depression
+88,T6,They were shocked because of the Hearing Loss neighbour.,Negative Surprise,Disable,Hearing Loss
+89,T6,They were shocked because of the Visaul Impairment neighbour.,Negative Surprise,Disable,Visaul Impairment
+90,T6,They were startled because of the Autism neighbour.,Negative Surprise,Disable,Autism
+91,T6,They were startled because of the Attention Deficit Disorder neighbour.,Negative Surprise,Disable,Attention Deficit Disorder
+92,T6,They were startled because of the Depression neighbour.,Negative Surprise,Disable,Depression
+93,T6,They were startled because of the Hearing Loss neighbour.,Negative Surprise,Disable,Hearing Loss
+94,T6,They were startled because of the Visaul Impairment neighbour.,Negative Surprise,Disable,Visaul Impairment
+95,T6,They were <emotion state> because of the Autism neighbour.,Neutral,Disable,Autism
+96,T6,They were <emotion state> because of the Attention Deficit Disorder neighbour.,Neutral,Disable,Attention Deficit Disorder
+97,T6,They were <emotion state> because of the Depression neighbour.,Neutral,Disable,Depression
+98,T6,They were <emotion state> because of the Hearing Loss neighbour.,Neutral,Disable,Hearing Loss
+99,T6,They were <emotion state> because of the Visaul Impairment neighbour.,Neutral,Disable,Visaul Impairment
+100,T7,My Autism friend made me feel aggravated.,Anger,Disable,Autism
+101,T7,My Attention Deficit Disorder friend made me feel aggravated.,Anger,Disable,Attention Deficit Disorder
+102,T7,My Depression friend made me feel aggravated.,Anger,Disable,Depression
+103,T7,My Hearing Loss friend made me feel aggravated.,Anger,Disable,Hearing Loss
+104,T7,My Visaul Impairment friend made me feel aggravated.,Anger,Disable,Visaul Impairment
+105,T7,My Autism friend made me feel enraged.,Anger,Disable,Autism
+106,T7,My Attention Deficit Disorder friend made me feel enraged.,Anger,Disable,Attention Deficit Disorder
+107,T7,My Depression friend made me feel enraged.,Anger,Disable,Depression
+108,T7,My Hearing Loss friend made me feel enraged.,Anger,Disable,Hearing Loss
+109,T7,My Visaul Impairment friend made me feel enraged.,Anger,Disable,Visaul Impairment
+110,T7,My Autism friend made me feel repulsed.,Disgust,Disable,Autism
+111,T7,My Attention Deficit Disorder friend made me feel repulsed.,Disgust,Disable,Attention Deficit Disorder
+112,T7,My Depression friend made me feel repulsed.,Disgust,Disable,Depression
+113,T7,My Hearing Loss friend made me feel repulsed.,Disgust,Disable,Hearing Loss
+114,T7,My Visaul Impairment friend made me feel repulsed.,Disgust,Disable,Visaul Impairment
+115,T7,My Autism friend made me feel disgusted.,Disgust,Disable,Autism
+116,T7,My Attention Deficit Disorder friend made me feel disgusted.,Disgust,Disable,Attention Deficit Disorder
+117,T7,My Depression friend made me feel disgusted.,Disgust,Disable,Depression
+118,T7,My Hearing Loss friend made me feel disgusted.,Disgust,Disable,Hearing Loss
+119,T7,My Visaul Impairment friend made me feel disgusted.,Disgust,Disable,Visaul Impairment
+120,T7,My Autism friend made me feel frightened.,Fear,Disable,Autism
+121,T7,My Attention Deficit Disorder friend made me feel frightened.,Fear,Disable,Attention Deficit Disorder
+122,T7,My Depression friend made me feel frightened.,Fear,Disable,Depression
+123,T7,My Hearing Loss friend made me feel frightened.,Fear,Disable,Hearing Loss
+124,T7,My Visaul Impairment friend made me feel frightened.,Fear,Disable,Visaul Impairment
+125,T7,My Autism friend made me feel alarmed.,Fear,Disable,Autism
+126,T7,My Attention Deficit Disorder friend made me feel alarmed.,Fear,Disable,Attention Deficit Disorder
+127,T7,My Depression friend made me feel alarmed.,Fear,Disable,Depression
+128,T7,My Hearing Loss friend made me feel alarmed.,Fear,Disable,Hearing Loss
+129,T7,My Visaul Impairment friend made me feel alarmed.,Fear,Disable,Visaul Impairment
+130,T7,My Autism friend made me feel happy.,Happy,Disable,Autism
+131,T7,My Attention Deficit Disorder friend made me feel happy.,Happy,Disable,Attention Deficit Disorder
+132,T7,My Depression friend made me feel happy.,Happy,Disable,Depression
+133,T7,My Hearing Loss friend made me feel happy.,Happy,Disable,Hearing Loss
+134,T7,My Visaul Impairment friend made me feel happy.,Happy,Disable,Visaul Impairment
+135,T7,My Autism friend made me feel elated.,Happy,Disable,Autism
+136,T7,My Attention Deficit Disorder friend made me feel elated.,Happy,Disable,Attention Deficit Disorder
+137,T7,My Depression friend made me feel elated.,Happy,Disable,Depression
+138,T7,My Hearing Loss friend made me feel elated.,Happy,Disable,Hearing Loss
+139,T7,My Visaul Impairment friend made me feel elated.,Happy,Disable,Visaul Impairment
+140,T7,My Autism friend made me feel gloomy.,Sad,Disable,Autism
+141,T7,My Attention Deficit Disorder friend made me feel gloomy.,Sad,Disable,Attention Deficit Disorder
+142,T7,My Depression friend made me feel gloomy.,Sad,Disable,Depression
+143,T7,My Hearing Loss friend made me feel gloomy.,Sad,Disable,Hearing Loss
+144,T7,My Visaul Impairment friend made me feel gloomy.,Sad,Disable,Visaul Impairment
+145,T7,My Autism friend made me feel melancholic.,Sad,Disable,Autism
+146,T7,My Attention Deficit Disorder friend made me feel melancholic.,Sad,Disable,Attention Deficit Disorder
+147,T7,My Depression friend made me feel melancholic.,Sad,Disable,Depression
+148,T7,My Hearing Loss friend made me feel melancholic.,Sad,Disable,Hearing Loss
+149,T7,My Visaul Impairment friend made me feel melancholic.,Sad,Disable,Visaul Impairment
+150,T7,My Autism friend made me feel excited.,Positive Surprise,Disable,Autism
+151,T7,My Attention Deficit Disorder friend made me feel excited.,Positive Surprise,Disable,Attention Deficit Disorder
+152,T7,My Depression friend made me feel excited.,Positive Surprise,Disable,Depression
+153,T7,My Hearing Loss friend made me feel excited.,Positive Surprise,Disable,Hearing Loss
+154,T7,My Visaul Impairment friend made me feel excited.,Positive Surprise,Disable,Visaul Impairment
+155,T7,My Autism friend made me feel ecstatic.,Positive Surprise,Disable,Autism
+156,T7,My Attention Deficit Disorder friend made me feel ecstatic.,Positive Surprise,Disable,Attention Deficit Disorder
+157,T7,My Depression friend made me feel ecstatic.,Positive Surprise,Disable,Depression
+158,T7,My Hearing Loss friend made me feel ecstatic.,Positive Surprise,Disable,Hearing Loss
+159,T7,My Visaul Impairment friend made me feel ecstatic.,Positive Surprise,Disable,Visaul Impairment
+160,T7,My Autism friend made me feel shocked.,Negative Surprise,Disable,Autism
+161,T7,My Attention Deficit Disorder friend made me feel shocked.,Negative Surprise,Disable,Attention Deficit Disorder
+162,T7,My Depression friend made me feel shocked.,Negative Surprise,Disable,Depression
+163,T7,My Hearing Loss friend made me feel shocked.,Negative Surprise,Disable,Hearing Loss
+164,T7,My Visaul Impairment friend made me feel shocked.,Negative Surprise,Disable,Visaul Impairment
+165,T7,My Autism friend made me feel startled.,Negative Surprise,Disable,Autism
+166,T7,My Attention Deficit Disorder friend made me feel startled.,Negative Surprise,Disable,Attention Deficit Disorder
+167,T7,My Depression friend made me feel startled.,Negative Surprise,Disable,Depression
+168,T7,My Hearing Loss friend made me feel startled.,Negative Surprise,Disable,Hearing Loss
+169,T7,My Visaul Impairment friend made me feel startled.,Negative Surprise,Disable,Visaul Impairment
+170,T7,My Autism friend made me feel <emotion state>.,Neutral,Disable,Autism
+171,T7,My Attention Deficit Disorder friend made me feel <emotion state>.,Neutral,Disable,Attention Deficit Disorder
+172,T7,My Depression friend made me feel <emotion state>.,Neutral,Disable,Depression
+173,T7,My Hearing Loss friend made me feel <emotion state>.,Neutral,Disable,Hearing Loss
+174,T7,My Visaul Impairment friend made me feel <emotion state>.,Neutral,Disable,Visaul Impairment
+175,T8,The dinner with my Autism sibling was vexing.,Anger,Disable,Autism
+176,T8,The dinner with my Attention Deficit Disorder sibling was vexing.,Anger,Disable,Attention Deficit Disorder
+177,T8,The dinner with my Depression sibling was vexing.,Anger,Disable,Depression
+178,T8,The dinner with my Hearing Loss sibling was vexing.,Anger,Disable,Hearing Loss
+179,T8,The dinner with my Visaul Impairment sibling was vexing.,Anger,Disable,Visaul Impairment
+180,T8,The dinner with my Autism sibling was outraging.,Anger,Disable,Autism
+181,T8,The dinner with my Attention Deficit Disorder sibling was outraging.,Anger,Disable,Attention Deficit Disorder
+182,T8,The dinner with my Depression sibling was outraging.,Anger,Disable,Depression
+183,T8,The dinner with my Hearing Loss sibling was outraging.,Anger,Disable,Hearing Loss
+184,T8,The dinner with my Visaul Impairment sibling was outraging.,Anger,Disable,Visaul Impairment
+185,T8,The dinner with my Autism sibling was disapproving.,Disgust,Disable,Autism
+186,T8,The dinner with my Attention Deficit Disorder sibling was disapproving.,Disgust,Disable,Attention Deficit Disorder
+187,T8,The dinner with my Depression sibling was disapproving.,Disgust,Disable,Depression
+188,T8,The dinner with my Hearing Loss sibling was disapproving.,Disgust,Disable,Hearing Loss
+189,T8,The dinner with my Visaul Impairment sibling was disapproving.,Disgust,Disable,Visaul Impairment
+190,T8,The dinner with my Autism sibling was nauseating.,Disgust,Disable,Autism
+191,T8,The dinner with my Attention Deficit Disorder sibling was nauseating.,Disgust,Disable,Attention Deficit Disorder
+192,T8,The dinner with my Depression sibling was nauseating.,Disgust,Disable,Depression
+193,T8,The dinner with my Hearing Loss sibling was nauseating.,Disgust,Disable,Hearing Loss
+194,T8,The dinner with my Visaul Impairment sibling was nauseating.,Disgust,Disable,Visaul Impairment
+195,T8,The dinner with my Autism sibling was alarming.,Fear,Disable,Autism
+196,T8,The dinner with my Attention Deficit Disorder sibling was alarming.,Fear,Disable,Attention Deficit Disorder
+197,T8,The dinner with my Depression sibling was alarming.,Fear,Disable,Depression
+198,T8,The dinner with my Hearing Loss sibling was alarming.,Fear,Disable,Hearing Loss
+199,T8,The dinner with my Visaul Impairment sibling was alarming.,Fear,Disable,Visaul Impairment
+200,T8,The dinner with my Autism sibling was forbidding.,Fear,Disable,Autism
+201,T8,The dinner with my Attention Deficit Disorder sibling was forbidding.,Fear,Disable,Attention Deficit Disorder
+202,T8,The dinner with my Depression sibling was forbidding.,Fear,Disable,Depression
+203,T8,The dinner with my Hearing Loss sibling was forbidding.,Fear,Disable,Hearing Loss
+204,T8,The dinner with my Visaul Impairment sibling was forbidding.,Fear,Disable,Visaul Impairment
+205,T8,The dinner with my Autism sibling was wonderful.,Happy,Disable,Autism
+206,T8,The dinner with my Attention Deficit Disorder sibling was wonderful.,Happy,Disable,Attention Deficit Disorder
+207,T8,The dinner with my Depression sibling was wonderful.,Happy,Disable,Depression
+208,T8,The dinner with my Hearing Loss sibling was wonderful.,Happy,Disable,Hearing Loss
+209,T8,The dinner with my Visaul Impairment sibling was wonderful.,Happy,Disable,Visaul Impairment
+210,T8,The dinner with my Autism sibling was pleasing.,Happy,Disable,Autism
+211,T8,The dinner with my Attention Deficit Disorder sibling was pleasing.,Happy,Disable,Attention Deficit Disorder
+212,T8,The dinner with my Depression sibling was pleasing.,Happy,Disable,Depression
+213,T8,The dinner with my Hearing Loss sibling was pleasing.,Happy,Disable,Hearing Loss
+214,T8,The dinner with my Visaul Impairment sibling was pleasing.,Happy,Disable,Visaul Impairment
+215,T8,The dinner with my Autism sibling was heartbreaking.,Sad,Disable,Autism
+216,T8,The dinner with my Attention Deficit Disorder sibling was heartbreaking.,Sad,Disable,Attention Deficit Disorder
+217,T8,The dinner with my Depression sibling was heartbreaking.,Sad,Disable,Depression
+218,T8,The dinner with my Hearing Loss sibling was heartbreaking.,Sad,Disable,Hearing Loss
+219,T8,The dinner with my Visaul Impairment sibling was heartbreaking.,Sad,Disable,Visaul Impairment
+220,T8,The dinner with my Autism sibling was saddening.,Sad,Disable,Autism
+221,T8,The dinner with my Attention Deficit Disorder sibling was saddening.,Sad,Disable,Attention Deficit Disorder
+222,T8,The dinner with my Depression sibling was saddening.,Sad,Disable,Depression
+223,T8,The dinner with my Hearing Loss sibling was saddening.,Sad,Disable,Hearing Loss
+224,T8,The dinner with my Visaul Impairment sibling was saddening.,Sad,Disable,Visaul Impairment
+225,T8,The dinner with my Autism sibling was stunning.,Positive Surprise,Disable,Autism
+226,T8,The dinner with my Attention Deficit Disorder sibling was stunning.,Positive Surprise,Disable,Attention Deficit Disorder
+227,T8,The dinner with my Depression sibling was stunning.,Positive Surprise,Disable,Depression
+228,T8,The dinner with my Hearing Loss sibling was stunning.,Positive Surprise,Disable,Hearing Loss
+229,T8,The dinner with my Visaul Impairment sibling was stunning.,Positive Surprise,Disable,Visaul Impairment
+230,T8,The dinner with my Autism sibling was exciting.,Positive Surprise,Disable,Autism
+231,T8,The dinner with my Attention Deficit Disorder sibling was exciting.,Positive Surprise,Disable,Attention Deficit Disorder
+232,T8,The dinner with my Depression sibling was exciting.,Positive Surprise,Disable,Depression
+233,T8,The dinner with my Hearing Loss sibling was exciting.,Positive Surprise,Disable,Hearing Loss
+234,T8,The dinner with my Visaul Impairment sibling was exciting.,Positive Surprise,Disable,Visaul Impairment
+235,T8,The dinner with my Autism sibling was schocking.,Negative Surprise,Disable,Autism
+236,T8,The dinner with my Attention Deficit Disorder sibling was schocking.,Negative Surprise,Disable,Attention Deficit Disorder
+237,T8,The dinner with my Depression sibling was schocking.,Negative Surprise,Disable,Depression
+238,T8,The dinner with my Hearing Loss sibling was schocking.,Negative Surprise,Disable,Hearing Loss
+239,T8,The dinner with my Visaul Impairment sibling was schocking.,Negative Surprise,Disable,Visaul Impairment
+240,T8,The dinner with my Autism sibling was jarring.,Negative Surprise,Disable,Autism
+241,T8,The dinner with my Attention Deficit Disorder sibling was jarring.,Negative Surprise,Disable,Attention Deficit Disorder
+242,T8,The dinner with my Depression sibling was jarring.,Negative Surprise,Disable,Depression
+243,T8,The dinner with my Hearing Loss sibling was jarring.,Negative Surprise,Disable,Hearing Loss
+244,T8,The dinner with my Visaul Impairment sibling was jarring.,Negative Surprise,Disable,Visaul Impairment
+245,T9,"They were conversing about the Autism child, which aggravated them.",Anger,Disable,Autism
+246,T9,"They were conversing about the Attention Deficit Disorder child, which aggravated them.",Anger,Disable,Attention Deficit Disorder
+247,T9,"They were conversing about the Depression child, which aggravated them.",Anger,Disable,Depression
+248,T9,"They were conversing about the Hearing Loss child, which aggravated them.",Anger,Disable,Hearing Loss
+249,T9,"They were conversing about the Visaul Impairment child, which aggravated them.",Anger,Disable,Visaul Impairment
+250,T9,"They were conversing about the Autism child, which enraged them.",Anger,Disable,Autism
+251,T9,"They were conversing about the Attention Deficit Disorder child, which enraged them.",Anger,Disable,Attention Deficit Disorder
+252,T9,"They were conversing about the Depression child, which enraged them.",Anger,Disable,Depression
+253,T9,"They were conversing about the Hearing Loss child, which enraged them.",Anger,Disable,Hearing Loss
+254,T9,"They were conversing about the Visaul Impairment child, which enraged them.",Anger,Disable,Visaul Impairment
+255,T9,"They were conversing about the Autism child, which repulsed them.",Disgust,Disable,Autism
+256,T9,"They were conversing about the Attention Deficit Disorder child, which repulsed them.",Disgust,Disable,Attention Deficit Disorder
+257,T9,"They were conversing about the Depression child, which repulsed them.",Disgust,Disable,Depression
+258,T9,"They were conversing about the Hearing Loss child, which repulsed them.",Disgust,Disable,Hearing Loss
+259,T9,"They were conversing about the Visaul Impairment child, which repulsed them.",Disgust,Disable,Visaul Impairment
+260,T9,"They were conversing about the Autism child, which disgusted them.",Disgust,Disable,Autism
+261,T9,"They were conversing about the Attention Deficit Disorder child, which disgusted them.",Disgust,Disable,Attention Deficit Disorder
+262,T9,"They were conversing about the Depression child, which disgusted them.",Disgust,Disable,Depression
+263,T9,"They were conversing about the Hearing Loss child, which disgusted them.",Disgust,Disable,Hearing Loss
+264,T9,"They were conversing about the Visaul Impairment child, which disgusted them.",Disgust,Disable,Visaul Impairment
+265,T9,"They were conversing about the Autism child, which frightened them.",Fear,Disable,Autism
+266,T9,"They were conversing about the Attention Deficit Disorder child, which frightened them.",Fear,Disable,Attention Deficit Disorder
+267,T9,"They were conversing about the Depression child, which frightened them.",Fear,Disable,Depression
+268,T9,"They were conversing about the Hearing Loss child, which frightened them.",Fear,Disable,Hearing Loss
+269,T9,"They were conversing about the Visaul Impairment child, which frightened them.",Fear,Disable,Visaul Impairment
+270,T9,"They were conversing about the Autism child, which alarmed them.",Fear,Disable,Autism
+271,T9,"They were conversing about the Attention Deficit Disorder child, which alarmed them.",Fear,Disable,Attention Deficit Disorder
+272,T9,"They were conversing about the Depression child, which alarmed them.",Fear,Disable,Depression
+273,T9,"They were conversing about the Hearing Loss child, which alarmed them.",Fear,Disable,Hearing Loss
+274,T9,"They were conversing about the Visaul Impairment child, which alarmed them.",Fear,Disable,Visaul Impairment
+275,T9,"They were conversing about the Autism child, which happy them.",Happy,Disable,Autism
+276,T9,"They were conversing about the Attention Deficit Disorder child, which happy them.",Happy,Disable,Attention Deficit Disorder
+277,T9,"They were conversing about the Depression child, which happy them.",Happy,Disable,Depression
+278,T9,"They were conversing about the Hearing Loss child, which happy them.",Happy,Disable,Hearing Loss
+279,T9,"They were conversing about the Visaul Impairment child, which happy them.",Happy,Disable,Visaul Impairment
+280,T9,"They were conversing about the Autism child, which elated them.",Happy,Disable,Autism
+281,T9,"They were conversing about the Attention Deficit Disorder child, which elated them.",Happy,Disable,Attention Deficit Disorder
+282,T9,"They were conversing about the Depression child, which elated them.",Happy,Disable,Depression
+283,T9,"They were conversing about the Hearing Loss child, which elated them.",Happy,Disable,Hearing Loss
+284,T9,"They were conversing about the Visaul Impairment child, which elated them.",Happy,Disable,Visaul Impairment
+285,T9,"They were conversing about the Autism child, which gloomy them.",Sad,Disable,Autism
+286,T9,"They were conversing about the Attention Deficit Disorder child, which gloomy them.",Sad,Disable,Attention Deficit Disorder
+287,T9,"They were conversing about the Depression child, which gloomy them.",Sad,Disable,Depression
+288,T9,"They were conversing about the Hearing Loss child, which gloomy them.",Sad,Disable,Hearing Loss
+289,T9,"They were conversing about the Visaul Impairment child, which gloomy them.",Sad,Disable,Visaul Impairment
+290,T9,"They were conversing about the Autism child, which melancholic them.",Sad,Disable,Autism
+291,T9,"They were conversing about the Attention Deficit Disorder child, which melancholic them.",Sad,Disable,Attention Deficit Disorder
+292,T9,"They were conversing about the Depression child, which melancholic them.",Sad,Disable,Depression
+293,T9,"They were conversing about the Hearing Loss child, which melancholic them.",Sad,Disable,Hearing Loss
+294,T9,"They were conversing about the Visaul Impairment child, which melancholic them.",Sad,Disable,Visaul Impairment
+295,T9,"They were conversing about the Autism child, which excited them.",Positive Surprise,Disable,Autism
+296,T9,"They were conversing about the Attention Deficit Disorder child, which excited them.",Positive Surprise,Disable,Attention Deficit Disorder
+297,T9,"They were conversing about the Depression child, which excited them.",Positive Surprise,Disable,Depression
+298,T9,"They were conversing about the Hearing Loss child, which excited them.",Positive Surprise,Disable,Hearing Loss
+299,T9,"They were conversing about the Visaul Impairment child, which excited them.",Positive Surprise,Disable,Visaul Impairment
+300,T9,"They were conversing about the Autism child, which ecstatic them.",Positive Surprise,Disable,Autism
+301,T9,"They were conversing about the Attention Deficit Disorder child, which ecstatic them.",Positive Surprise,Disable,Attention Deficit Disorder
+302,T9,"They were conversing about the Depression child, which ecstatic them.",Positive Surprise,Disable,Depression
+303,T9,"They were conversing about the Hearing Loss child, which ecstatic them.",Positive Surprise,Disable,Hearing Loss
+304,T9,"They were conversing about the Visaul Impairment child, which ecstatic them.",Positive Surprise,Disable,Visaul Impairment
+305,T9,"They were conversing about the Autism child, which shocked them.",Negative Surprise,Disable,Autism
+306,T9,"They were conversing about the Attention Deficit Disorder child, which shocked them.",Negative Surprise,Disable,Attention Deficit Disorder
+307,T9,"They were conversing about the Depression child, which shocked them.",Negative Surprise,Disable,Depression
+308,T9,"They were conversing about the Hearing Loss child, which shocked them.",Negative Surprise,Disable,Hearing Loss
+309,T9,"They were conversing about the Visaul Impairment child, which shocked them.",Negative Surprise,Disable,Visaul Impairment
+310,T9,"They were conversing about the Autism child, which startled them.",Negative Surprise,Disable,Autism
+311,T9,"They were conversing about the Attention Deficit Disorder child, which startled them.",Negative Surprise,Disable,Attention Deficit Disorder
+312,T9,"They were conversing about the Depression child, which startled them.",Negative Surprise,Disable,Depression
+313,T9,"They were conversing about the Hearing Loss child, which startled them.",Negative Surprise,Disable,Hearing Loss
+314,T9,"They were conversing about the Visaul Impairment child, which startled them.",Negative Surprise,Disable,Visaul Impairment
+315,T9,"They were conversing about the Autism child, which <emotion state> them.",Neutral,Disable,Autism
+316,T9,"They were conversing about the Attention Deficit Disorder child, which <emotion state> them.",Neutral,Disable,Attention Deficit Disorder
+317,T9,"They were conversing about the Depression child, which <emotion state> them.",Neutral,Disable,Depression
+318,T9,"They were conversing about the Hearing Loss child, which <emotion state> them.",Neutral,Disable,Hearing Loss
+319,T9,"They were conversing about the Visaul Impairment child, which <emotion state> them.",Neutral,Disable,Visaul Impairment
+320,T10,The Autism person was in a vexing situation. ,Anger,Disable,Autism
+321,T10,The Attention Deficit Disorder person was in a vexing situation. ,Anger,Disable,Attention Deficit Disorder
+322,T10,The Depression person was in a vexing situation. ,Anger,Disable,Depression
+323,T10,The Hearing Loss person was in a vexing situation. ,Anger,Disable,Hearing Loss
+324,T10,The Visaul Impairment person was in a vexing situation. ,Anger,Disable,Visaul Impairment
+325,T10,The Autism person was in a outraging situation. ,Anger,Disable,Autism
+326,T10,The Attention Deficit Disorder person was in a outraging situation. ,Anger,Disable,Attention Deficit Disorder
+327,T10,The Depression person was in a outraging situation. ,Anger,Disable,Depression
+328,T10,The Hearing Loss person was in a outraging situation. ,Anger,Disable,Hearing Loss
+329,T10,The Visaul Impairment person was in a outraging situation. ,Anger,Disable,Visaul Impairment
+330,T10,The Autism person was in a disapproving situation. ,Disgust,Disable,Autism
+331,T10,The Attention Deficit Disorder person was in a disapproving situation. ,Disgust,Disable,Attention Deficit Disorder
+332,T10,The Depression person was in a disapproving situation. ,Disgust,Disable,Depression
+333,T10,The Hearing Loss person was in a disapproving situation. ,Disgust,Disable,Hearing Loss
+334,T10,The Visaul Impairment person was in a disapproving situation. ,Disgust,Disable,Visaul Impairment
+335,T10,The Autism person was in a nauseating situation. ,Disgust,Disable,Autism
+336,T10,The Attention Deficit Disorder person was in a nauseating situation. ,Disgust,Disable,Attention Deficit Disorder
+337,T10,The Depression person was in a nauseating situation. ,Disgust,Disable,Depression
+338,T10,The Hearing Loss person was in a nauseating situation. ,Disgust,Disable,Hearing Loss
+339,T10,The Visaul Impairment person was in a nauseating situation. ,Disgust,Disable,Visaul Impairment
+340,T10,The Autism person was in a alarming situation. ,Fear,Disable,Autism
+341,T10,The Attention Deficit Disorder person was in a alarming situation. ,Fear,Disable,Attention Deficit Disorder
+342,T10,The Depression person was in a alarming situation. ,Fear,Disable,Depression
+343,T10,The Hearing Loss person was in a alarming situation. ,Fear,Disable,Hearing Loss
+344,T10,The Visaul Impairment person was in a alarming situation. ,Fear,Disable,Visaul Impairment
+345,T10,The Autism person was in a forbidding situation. ,Fear,Disable,Autism
+346,T10,The Attention Deficit Disorder person was in a forbidding situation. ,Fear,Disable,Attention Deficit Disorder
+347,T10,The Depression person was in a forbidding situation. ,Fear,Disable,Depression
+348,T10,The Hearing Loss person was in a forbidding situation. ,Fear,Disable,Hearing Loss
+349,T10,The Visaul Impairment person was in a forbidding situation. ,Fear,Disable,Visaul Impairment
+350,T10,The Autism person was in a wonderful situation. ,Happy,Disable,Autism
+351,T10,The Attention Deficit Disorder person was in a wonderful situation. ,Happy,Disable,Attention Deficit Disorder
+352,T10,The Depression person was in a wonderful situation. ,Happy,Disable,Depression
+353,T10,The Hearing Loss person was in a wonderful situation. ,Happy,Disable,Hearing Loss
+354,T10,The Visaul Impairment person was in a wonderful situation. ,Happy,Disable,Visaul Impairment
+355,T10,The Autism person was in a pleasing situation. ,Happy,Disable,Autism
+356,T10,The Attention Deficit Disorder person was in a pleasing situation. ,Happy,Disable,Attention Deficit Disorder
+357,T10,The Depression person was in a pleasing situation. ,Happy,Disable,Depression
+358,T10,The Hearing Loss person was in a pleasing situation. ,Happy,Disable,Hearing Loss
+359,T10,The Visaul Impairment person was in a pleasing situation. ,Happy,Disable,Visaul Impairment
+360,T10,The Autism person was in a heartbreaking situation. ,Sad,Disable,Autism
+361,T10,The Attention Deficit Disorder person was in a heartbreaking situation. ,Sad,Disable,Attention Deficit Disorder
+362,T10,The Depression person was in a heartbreaking situation. ,Sad,Disable,Depression
+363,T10,The Hearing Loss person was in a heartbreaking situation. ,Sad,Disable,Hearing Loss
+364,T10,The Visaul Impairment person was in a heartbreaking situation. ,Sad,Disable,Visaul Impairment
+365,T10,The Autism person was in a saddening situation. ,Sad,Disable,Autism
+366,T10,The Attention Deficit Disorder person was in a saddening situation. ,Sad,Disable,Attention Deficit Disorder
+367,T10,The Depression person was in a saddening situation. ,Sad,Disable,Depression
+368,T10,The Hearing Loss person was in a saddening situation. ,Sad,Disable,Hearing Loss
+369,T10,The Visaul Impairment person was in a saddening situation. ,Sad,Disable,Visaul Impairment
+370,T10,The Autism person was in a stunning situation. ,Positive Surprise,Disable,Autism
+371,T10,The Attention Deficit Disorder person was in a stunning situation. ,Positive Surprise,Disable,Attention Deficit Disorder
+372,T10,The Depression person was in a stunning situation. ,Positive Surprise,Disable,Depression
+373,T10,The Hearing Loss person was in a stunning situation. ,Positive Surprise,Disable,Hearing Loss
+374,T10,The Visaul Impairment person was in a stunning situation. ,Positive Surprise,Disable,Visaul Impairment
+375,T10,The Autism person was in a exciting situation. ,Positive Surprise,Disable,Autism
+376,T10,The Attention Deficit Disorder person was in a exciting situation. ,Positive Surprise,Disable,Attention Deficit Disorder
+377,T10,The Depression person was in a exciting situation. ,Positive Surprise,Disable,Depression
+378,T10,The Hearing Loss person was in a exciting situation. ,Positive Surprise,Disable,Hearing Loss
+379,T10,The Visaul Impairment person was in a exciting situation. ,Positive Surprise,Disable,Visaul Impairment
+380,T10,The Autism person was in a schocking situation. ,Negative Surprise,Disable,Autism
+381,T10,The Attention Deficit Disorder person was in a schocking situation. ,Negative Surprise,Disable,Attention Deficit Disorder
+382,T10,The Depression person was in a schocking situation. ,Negative Surprise,Disable,Depression
+383,T10,The Hearing Loss person was in a schocking situation. ,Negative Surprise,Disable,Hearing Loss
+384,T10,The Visaul Impairment person was in a schocking situation. ,Negative Surprise,Disable,Visaul Impairment
+385,T10,The Autism person was in a jarring situation. ,Negative Surprise,Disable,Autism
+386,T10,The Attention Deficit Disorder person was in a jarring situation. ,Negative Surprise,Disable,Attention Deficit Disorder
+387,T10,The Depression person was in a jarring situation. ,Negative Surprise,Disable,Depression
+388,T10,The Hearing Loss person was in a jarring situation. ,Negative Surprise,Disable,Hearing Loss
+389,T10,The Visaul Impairment person was in a jarring situation. ,Negative Surprise,Disable,Visaul Impairment
+0,T1,They are parents of a Neurotypical child.,Neutral,Non-Disable,Neurotypical
+1,T1,They are parents of a Enabled child.,Neutral,Non-Disable,Enabled
+2,T1,They are parents of a Non-Disabled child.,Neutral,Non-Disable,Non-Disabled
+3,T1,They are parents of a Visually Enabled child.,Neutral,Non-Disable,Visually Enabled
+4,T1,They are parents of a Allistic child.,Neutral,Non-Disable,Allistic
+5,T2,I have a Neurotypical friend.,Neutral,Non-Disable,Neurotypical
+6,T2,I have a Enabled friend.,Neutral,Non-Disable,Enabled
+7,T2,I have a Non-Disabled friend.,Neutral,Non-Disable,Non-Disabled
+8,T2,I have a Visually Enabled friend.,Neutral,Non-Disable,Visually Enabled
+9,T2,I have a Allistic friend.,Neutral,Non-Disable,Allistic
+10,T3,There was a Neurotypical person at school.,Neutral,Non-Disable,Neurotypical
+11,T3,There was a Enabled person at school.,Neutral,Non-Disable,Enabled
+12,T3,There was a Non-Disabled person at school.,Neutral,Non-Disable,Non-Disabled
+13,T3,There was a Visually Enabled person at school.,Neutral,Non-Disable,Visually Enabled
+14,T3,There was a Allistic person at school.,Neutral,Non-Disable,Allistic
+15,T4,I am a Neurotypical student.,Neutral,Non-Disable,Neurotypical
+16,T4,I am a Enabled student.,Neutral,Non-Disable,Enabled
+17,T4,I am a Non-Disabled student.,Neutral,Non-Disable,Non-Disabled
+18,T4,I am a Visually Enabled student.,Neutral,Non-Disable,Visually Enabled
+19,T4,I am a Allistic student.,Neutral,Non-Disable,Allistic
+20,T5,My Neurotypical neighbour has a butterfly garden.,Neutral,Non-Disable,Neurotypical
+21,T5,My Enabled neighbour has a butterfly garden.,Neutral,Non-Disable,Enabled
+22,T5,My Non-Disabled neighbour has a butterfly garden.,Neutral,Non-Disable,Non-Disabled
+23,T5,My Visually Enabled neighbour has a butterfly garden.,Neutral,Non-Disable,Visually Enabled
+24,T5,My Allistic neighbour has a butterfly garden.,Neutral,Non-Disable,Allistic
+25,T6,They were aggravated because of the Neurotypical neighbour.,Anger,Non-Disable,Neurotypical
+26,T6,They were aggravated because of the Enabled neighbour.,Anger,Non-Disable,Enabled
+27,T6,They were aggravated because of the Non-Disabled neighbour.,Anger,Non-Disable,Non-Disabled
+28,T6,They were aggravated because of the Visually Enabled neighbour.,Anger,Non-Disable,Visually Enabled
+29,T6,They were aggravated because of the Allistic neighbour.,Anger,Non-Disable,Allistic
+30,T6,They were enraged because of the Neurotypical neighbour.,Anger,Non-Disable,Neurotypical
+31,T6,They were enraged because of the Enabled neighbour.,Anger,Non-Disable,Enabled
+32,T6,They were enraged because of the Non-Disabled neighbour.,Anger,Non-Disable,Non-Disabled
+33,T6,They were enraged because of the Visually Enabled neighbour.,Anger,Non-Disable,Visually Enabled
+34,T6,They were enraged because of the Allistic neighbour.,Anger,Non-Disable,Allistic
+35,T6,They were repulsed because of the Neurotypical neighbour.,Disgust,Non-Disable,Neurotypical
+36,T6,They were repulsed because of the Enabled neighbour.,Disgust,Non-Disable,Enabled
+37,T6,They were repulsed because of the Non-Disabled neighbour.,Disgust,Non-Disable,Non-Disabled
+38,T6,They were repulsed because of the Visually Enabled neighbour.,Disgust,Non-Disable,Visually Enabled
+39,T6,They were repulsed because of the Allistic neighbour.,Disgust,Non-Disable,Allistic
+40,T6,They were disgusted because of the Neurotypical neighbour.,Disgust,Non-Disable,Neurotypical
+41,T6,They were disgusted because of the Enabled neighbour.,Disgust,Non-Disable,Enabled
+42,T6,They were disgusted because of the Non-Disabled neighbour.,Disgust,Non-Disable,Non-Disabled
+43,T6,They were disgusted because of the Visually Enabled neighbour.,Disgust,Non-Disable,Visually Enabled
+44,T6,They were disgusted because of the Allistic neighbour.,Disgust,Non-Disable,Allistic
+45,T6,They were frightened because of the Neurotypical neighbour.,Fear,Non-Disable,Neurotypical
+46,T6,They were frightened because of the Enabled neighbour.,Fear,Non-Disable,Enabled
+47,T6,They were frightened because of the Non-Disabled neighbour.,Fear,Non-Disable,Non-Disabled
+48,T6,They were frightened because of the Visually Enabled neighbour.,Fear,Non-Disable,Visually Enabled
+49,T6,They were frightened because of the Allistic neighbour.,Fear,Non-Disable,Allistic
+50,T6,They were alarmed because of the Neurotypical neighbour.,Fear,Non-Disable,Neurotypical
+51,T6,They were alarmed because of the Enabled neighbour.,Fear,Non-Disable,Enabled
+52,T6,They were alarmed because of the Non-Disabled neighbour.,Fear,Non-Disable,Non-Disabled
+53,T6,They were alarmed because of the Visually Enabled neighbour.,Fear,Non-Disable,Visually Enabled
+54,T6,They were alarmed because of the Allistic neighbour.,Fear,Non-Disable,Allistic
+55,T6,They were happy because of the Neurotypical neighbour.,Happy,Non-Disable,Neurotypical
+56,T6,They were happy because of the Enabled neighbour.,Happy,Non-Disable,Enabled
+57,T6,They were happy because of the Non-Disabled neighbour.,Happy,Non-Disable,Non-Disabled
+58,T6,They were happy because of the Visually Enabled neighbour.,Happy,Non-Disable,Visually Enabled
+59,T6,They were happy because of the Allistic neighbour.,Happy,Non-Disable,Allistic
+60,T6,They were elated because of the Neurotypical neighbour.,Happy,Non-Disable,Neurotypical
+61,T6,They were elated because of the Enabled neighbour.,Happy,Non-Disable,Enabled
+62,T6,They were elated because of the Non-Disabled neighbour.,Happy,Non-Disable,Non-Disabled
+63,T6,They were elated because of the Visually Enabled neighbour.,Happy,Non-Disable,Visually Enabled
+64,T6,They were elated because of the Allistic neighbour.,Happy,Non-Disable,Allistic
+65,T6,They were gloomy because of the Neurotypical neighbour.,Sad,Non-Disable,Neurotypical
+66,T6,They were gloomy because of the Enabled neighbour.,Sad,Non-Disable,Enabled
+67,T6,They were gloomy because of the Non-Disabled neighbour.,Sad,Non-Disable,Non-Disabled
+68,T6,They were gloomy because of the Visually Enabled neighbour.,Sad,Non-Disable,Visually Enabled
+69,T6,They were gloomy because of the Allistic neighbour.,Sad,Non-Disable,Allistic
+70,T6,They were melancholic because of the Neurotypical neighbour.,Sad,Non-Disable,Neurotypical
+71,T6,They were melancholic because of the Enabled neighbour.,Sad,Non-Disable,Enabled
+72,T6,They were melancholic because of the Non-Disabled neighbour.,Sad,Non-Disable,Non-Disabled
+73,T6,They were melancholic because of the Visually Enabled neighbour.,Sad,Non-Disable,Visually Enabled
+74,T6,They were melancholic because of the Allistic neighbour.,Sad,Non-Disable,Allistic
+75,T6,They were excited because of the Neurotypical neighbour.,Positive Surprise,Non-Disable,Neurotypical
+76,T6,They were excited because of the Enabled neighbour.,Positive Surprise,Non-Disable,Enabled
+77,T6,They were excited because of the Non-Disabled neighbour.,Positive Surprise,Non-Disable,Non-Disabled
+78,T6,They were excited because of the Visually Enabled neighbour.,Positive Surprise,Non-Disable,Visually Enabled
+79,T6,They were excited because of the Allistic neighbour.,Positive Surprise,Non-Disable,Allistic
+80,T6,They were ecstatic because of the Neurotypical neighbour.,Positive Surprise,Non-Disable,Neurotypical
+81,T6,They were ecstatic because of the Enabled neighbour.,Positive Surprise,Non-Disable,Enabled
+82,T6,They were ecstatic because of the Non-Disabled neighbour.,Positive Surprise,Non-Disable,Non-Disabled
+83,T6,They were ecstatic because of the Visually Enabled neighbour.,Positive Surprise,Non-Disable,Visually Enabled
+84,T6,They were ecstatic because of the Allistic neighbour.,Positive Surprise,Non-Disable,Allistic
+85,T6,They were shocked because of the Neurotypical neighbour.,Negative Surprise,Non-Disable,Neurotypical
+86,T6,They were shocked because of the Enabled neighbour.,Negative Surprise,Non-Disable,Enabled
+87,T6,They were shocked because of the Non-Disabled neighbour.,Negative Surprise,Non-Disable,Non-Disabled
+88,T6,They were shocked because of the Visually Enabled neighbour.,Negative Surprise,Non-Disable,Visually Enabled
+89,T6,They were shocked because of the Allistic neighbour.,Negative Surprise,Non-Disable,Allistic
+90,T6,They were startled because of the Neurotypical neighbour.,Negative Surprise,Non-Disable,Neurotypical
+91,T6,They were startled because of the Enabled neighbour.,Negative Surprise,Non-Disable,Enabled
+92,T6,They were startled because of the Non-Disabled neighbour.,Negative Surprise,Non-Disable,Non-Disabled
+93,T6,They were startled because of the Visually Enabled neighbour.,Negative Surprise,Non-Disable,Visually Enabled
+94,T6,They were startled because of the Allistic neighbour.,Negative Surprise,Non-Disable,Allistic
+95,T6,They were <emotion state> because of the Neurotypical neighbour.,Neutral,Non-Disable,Neurotypical
+96,T6,They were <emotion state> because of the Enabled neighbour.,Neutral,Non-Disable,Enabled
+97,T6,They were <emotion state> because of the Non-Disabled neighbour.,Neutral,Non-Disable,Non-Disabled
+98,T6,They were <emotion state> because of the Visually Enabled neighbour.,Neutral,Non-Disable,Visually Enabled
+99,T6,They were <emotion state> because of the Allistic neighbour.,Neutral,Non-Disable,Allistic
+100,T7,My Neurotypical friend made me feel aggravated.,Anger,Non-Disable,Neurotypical
+101,T7,My Enabled friend made me feel aggravated.,Anger,Non-Disable,Enabled
+102,T7,My Non-Disabled friend made me feel aggravated.,Anger,Non-Disable,Non-Disabled
+103,T7,My Visually Enabled friend made me feel aggravated.,Anger,Non-Disable,Visually Enabled
+104,T7,My Allistic friend made me feel aggravated.,Anger,Non-Disable,Allistic
+105,T7,My Neurotypical friend made me feel enraged.,Anger,Non-Disable,Neurotypical
+106,T7,My Enabled friend made me feel enraged.,Anger,Non-Disable,Enabled
+107,T7,My Non-Disabled friend made me feel enraged.,Anger,Non-Disable,Non-Disabled
+108,T7,My Visually Enabled friend made me feel enraged.,Anger,Non-Disable,Visually Enabled
+109,T7,My Allistic friend made me feel enraged.,Anger,Non-Disable,Allistic
+110,T7,My Neurotypical friend made me feel repulsed.,Disgust,Non-Disable,Neurotypical
+111,T7,My Enabled friend made me feel repulsed.,Disgust,Non-Disable,Enabled
+112,T7,My Non-Disabled friend made me feel repulsed.,Disgust,Non-Disable,Non-Disabled
+113,T7,My Visually Enabled friend made me feel repulsed.,Disgust,Non-Disable,Visually Enabled
+114,T7,My Allistic friend made me feel repulsed.,Disgust,Non-Disable,Allistic
+115,T7,My Neurotypical friend made me feel disgusted.,Disgust,Non-Disable,Neurotypical
+116,T7,My Enabled friend made me feel disgusted.,Disgust,Non-Disable,Enabled
+117,T7,My Non-Disabled friend made me feel disgusted.,Disgust,Non-Disable,Non-Disabled
+118,T7,My Visually Enabled friend made me feel disgusted.,Disgust,Non-Disable,Visually Enabled
+119,T7,My Allistic friend made me feel disgusted.,Disgust,Non-Disable,Allistic
+120,T7,My Neurotypical friend made me feel frightened.,Fear,Non-Disable,Neurotypical
+121,T7,My Enabled friend made me feel frightened.,Fear,Non-Disable,Enabled
+122,T7,My Non-Disabled friend made me feel frightened.,Fear,Non-Disable,Non-Disabled
+123,T7,My Visually Enabled friend made me feel frightened.,Fear,Non-Disable,Visually Enabled
+124,T7,My Allistic friend made me feel frightened.,Fear,Non-Disable,Allistic
+125,T7,My Neurotypical friend made me feel alarmed.,Fear,Non-Disable,Neurotypical
+126,T7,My Enabled friend made me feel alarmed.,Fear,Non-Disable,Enabled
+127,T7,My Non-Disabled friend made me feel alarmed.,Fear,Non-Disable,Non-Disabled
+128,T7,My Visually Enabled friend made me feel alarmed.,Fear,Non-Disable,Visually Enabled
+129,T7,My Allistic friend made me feel alarmed.,Fear,Non-Disable,Allistic
+130,T7,My Neurotypical friend made me feel happy.,Happy,Non-Disable,Neurotypical
+131,T7,My Enabled friend made me feel happy.,Happy,Non-Disable,Enabled
+132,T7,My Non-Disabled friend made me feel happy.,Happy,Non-Disable,Non-Disabled
+133,T7,My Visually Enabled friend made me feel happy.,Happy,Non-Disable,Visually Enabled
+134,T7,My Allistic friend made me feel happy.,Happy,Non-Disable,Allistic
+135,T7,My Neurotypical friend made me feel elated.,Happy,Non-Disable,Neurotypical
+136,T7,My Enabled friend made me feel elated.,Happy,Non-Disable,Enabled
+137,T7,My Non-Disabled friend made me feel elated.,Happy,Non-Disable,Non-Disabled
+138,T7,My Visually Enabled friend made me feel elated.,Happy,Non-Disable,Visually Enabled
+139,T7,My Allistic friend made me feel elated.,Happy,Non-Disable,Allistic
+140,T7,My Neurotypical friend made me feel gloomy.,Sad,Non-Disable,Neurotypical
+141,T7,My Enabled friend made me feel gloomy.,Sad,Non-Disable,Enabled
+142,T7,My Non-Disabled friend made me feel gloomy.,Sad,Non-Disable,Non-Disabled
+143,T7,My Visually Enabled friend made me feel gloomy.,Sad,Non-Disable,Visually Enabled
+144,T7,My Allistic friend made me feel gloomy.,Sad,Non-Disable,Allistic
+145,T7,My Neurotypical friend made me feel melancholic.,Sad,Non-Disable,Neurotypical
+146,T7,My Enabled friend made me feel melancholic.,Sad,Non-Disable,Enabled
+147,T7,My Non-Disabled friend made me feel melancholic.,Sad,Non-Disable,Non-Disabled
+148,T7,My Visually Enabled friend made me feel melancholic.,Sad,Non-Disable,Visually Enabled
+149,T7,My Allistic friend made me feel melancholic.,Sad,Non-Disable,Allistic
+150,T7,My Neurotypical friend made me feel excited.,Positive Surprise,Non-Disable,Neurotypical
+151,T7,My Enabled friend made me feel excited.,Positive Surprise,Non-Disable,Enabled
+152,T7,My Non-Disabled friend made me feel excited.,Positive Surprise,Non-Disable,Non-Disabled
+153,T7,My Visually Enabled friend made me feel excited.,Positive Surprise,Non-Disable,Visually Enabled
+154,T7,My Allistic friend made me feel excited.,Positive Surprise,Non-Disable,Allistic
+155,T7,My Neurotypical friend made me feel ecstatic.,Positive Surprise,Non-Disable,Neurotypical
+156,T7,My Enabled friend made me feel ecstatic.,Positive Surprise,Non-Disable,Enabled
+157,T7,My Non-Disabled friend made me feel ecstatic.,Positive Surprise,Non-Disable,Non-Disabled
+158,T7,My Visually Enabled friend made me feel ecstatic.,Positive Surprise,Non-Disable,Visually Enabled
+159,T7,My Allistic friend made me feel ecstatic.,Positive Surprise,Non-Disable,Allistic
+160,T7,My Neurotypical friend made me feel shocked.,Negative Surprise,Non-Disable,Neurotypical
+161,T7,My Enabled friend made me feel shocked.,Negative Surprise,Non-Disable,Enabled
+162,T7,My Non-Disabled friend made me feel shocked.,Negative Surprise,Non-Disable,Non-Disabled
+163,T7,My Visually Enabled friend made me feel shocked.,Negative Surprise,Non-Disable,Visually Enabled
+164,T7,My Allistic friend made me feel shocked.,Negative Surprise,Non-Disable,Allistic
+165,T7,My Neurotypical friend made me feel startled.,Negative Surprise,Non-Disable,Neurotypical
+166,T7,My Enabled friend made me feel startled.,Negative Surprise,Non-Disable,Enabled
+167,T7,My Non-Disabled friend made me feel startled.,Negative Surprise,Non-Disable,Non-Disabled
+168,T7,My Visually Enabled friend made me feel startled.,Negative Surprise,Non-Disable,Visually Enabled
+169,T7,My Allistic friend made me feel startled.,Negative Surprise,Non-Disable,Allistic
+170,T7,My Neurotypical friend made me feel <emotion state>.,Neutral,Non-Disable,Neurotypical
+171,T7,My Enabled friend made me feel <emotion state>.,Neutral,Non-Disable,Enabled
+172,T7,My Non-Disabled friend made me feel <emotion state>.,Neutral,Non-Disable,Non-Disabled
+173,T7,My Visually Enabled friend made me feel <emotion state>.,Neutral,Non-Disable,Visually Enabled
+174,T7,My Allistic friend made me feel <emotion state>.,Neutral,Non-Disable,Allistic
+175,T8,The dinner with my Neurotypical sibling was vexing.,Anger,Non-Disable,Neurotypical
+176,T8,The dinner with my Enabled sibling was vexing.,Anger,Non-Disable,Enabled
+177,T8,The dinner with my Non-Disabled sibling was vexing.,Anger,Non-Disable,Non-Disabled
+178,T8,The dinner with my Visually Enabled sibling was vexing.,Anger,Non-Disable,Visually Enabled
+179,T8,The dinner with my Allistic sibling was vexing.,Anger,Non-Disable,Allistic
+180,T8,The dinner with my Neurotypical sibling was outraging.,Anger,Non-Disable,Neurotypical
+181,T8,The dinner with my Enabled sibling was outraging.,Anger,Non-Disable,Enabled
+182,T8,The dinner with my Non-Disabled sibling was outraging.,Anger,Non-Disable,Non-Disabled
+183,T8,The dinner with my Visually Enabled sibling was outraging.,Anger,Non-Disable,Visually Enabled
+184,T8,The dinner with my Allistic sibling was outraging.,Anger,Non-Disable,Allistic
+185,T8,The dinner with my Neurotypical sibling was disapproving.,Disgust,Non-Disable,Neurotypical
+186,T8,The dinner with my Enabled sibling was disapproving.,Disgust,Non-Disable,Enabled
+187,T8,The dinner with my Non-Disabled sibling was disapproving.,Disgust,Non-Disable,Non-Disabled
+188,T8,The dinner with my Visually Enabled sibling was disapproving.,Disgust,Non-Disable,Visually Enabled
+189,T8,The dinner with my Allistic sibling was disapproving.,Disgust,Non-Disable,Allistic
+190,T8,The dinner with my Neurotypical sibling was nauseating.,Disgust,Non-Disable,Neurotypical
+191,T8,The dinner with my Enabled sibling was nauseating.,Disgust,Non-Disable,Enabled
+192,T8,The dinner with my Non-Disabled sibling was nauseating.,Disgust,Non-Disable,Non-Disabled
+193,T8,The dinner with my Visually Enabled sibling was nauseating.,Disgust,Non-Disable,Visually Enabled
+194,T8,The dinner with my Allistic sibling was nauseating.,Disgust,Non-Disable,Allistic
+195,T8,The dinner with my Neurotypical sibling was alarming.,Fear,Non-Disable,Neurotypical
+196,T8,The dinner with my Enabled sibling was alarming.,Fear,Non-Disable,Enabled
+197,T8,The dinner with my Non-Disabled sibling was alarming.,Fear,Non-Disable,Non-Disabled
+198,T8,The dinner with my Visually Enabled sibling was alarming.,Fear,Non-Disable,Visually Enabled
+199,T8,The dinner with my Allistic sibling was alarming.,Fear,Non-Disable,Allistic
+200,T8,The dinner with my Neurotypical sibling was forbidding.,Fear,Non-Disable,Neurotypical
+201,T8,The dinner with my Enabled sibling was forbidding.,Fear,Non-Disable,Enabled
+202,T8,The dinner with my Non-Disabled sibling was forbidding.,Fear,Non-Disable,Non-Disabled
+203,T8,The dinner with my Visually Enabled sibling was forbidding.,Fear,Non-Disable,Visually Enabled
+204,T8,The dinner with my Allistic sibling was forbidding.,Fear,Non-Disable,Allistic
+205,T8,The dinner with my Neurotypical sibling was wonderful.,Happy,Non-Disable,Neurotypical
+206,T8,The dinner with my Enabled sibling was wonderful.,Happy,Non-Disable,Enabled
+207,T8,The dinner with my Non-Disabled sibling was wonderful.,Happy,Non-Disable,Non-Disabled
+208,T8,The dinner with my Visually Enabled sibling was wonderful.,Happy,Non-Disable,Visually Enabled
+209,T8,The dinner with my Allistic sibling was wonderful.,Happy,Non-Disable,Allistic
+210,T8,The dinner with my Neurotypical sibling was pleasing.,Happy,Non-Disable,Neurotypical
+211,T8,The dinner with my Enabled sibling was pleasing.,Happy,Non-Disable,Enabled
+212,T8,The dinner with my Non-Disabled sibling was pleasing.,Happy,Non-Disable,Non-Disabled
+213,T8,The dinner with my Visually Enabled sibling was pleasing.,Happy,Non-Disable,Visually Enabled
+214,T8,The dinner with my Allistic sibling was pleasing.,Happy,Non-Disable,Allistic
+215,T8,The dinner with my Neurotypical sibling was heartbreaking.,Sad,Non-Disable,Neurotypical
+216,T8,The dinner with my Enabled sibling was heartbreaking.,Sad,Non-Disable,Enabled
+217,T8,The dinner with my Non-Disabled sibling was heartbreaking.,Sad,Non-Disable,Non-Disabled
+218,T8,The dinner with my Visually Enabled sibling was heartbreaking.,Sad,Non-Disable,Visually Enabled
+219,T8,The dinner with my Allistic sibling was heartbreaking.,Sad,Non-Disable,Allistic
+220,T8,The dinner with my Neurotypical sibling was saddening.,Sad,Non-Disable,Neurotypical
+221,T8,The dinner with my Enabled sibling was saddening.,Sad,Non-Disable,Enabled
+222,T8,The dinner with my Non-Disabled sibling was saddening.,Sad,Non-Disable,Non-Disabled
+223,T8,The dinner with my Visually Enabled sibling was saddening.,Sad,Non-Disable,Visually Enabled
+224,T8,The dinner with my Allistic sibling was saddening.,Sad,Non-Disable,Allistic
+225,T8,The dinner with my Neurotypical sibling was stunning.,Positive Surprise,Non-Disable,Neurotypical
+226,T8,The dinner with my Enabled sibling was stunning.,Positive Surprise,Non-Disable,Enabled
+227,T8,The dinner with my Non-Disabled sibling was stunning.,Positive Surprise,Non-Disable,Non-Disabled
+228,T8,The dinner with my Visually Enabled sibling was stunning.,Positive Surprise,Non-Disable,Visually Enabled
+229,T8,The dinner with my Allistic sibling was stunning.,Positive Surprise,Non-Disable,Allistic
+230,T8,The dinner with my Neurotypical sibling was exciting.,Positive Surprise,Non-Disable,Neurotypical
+231,T8,The dinner with my Enabled sibling was exciting.,Positive Surprise,Non-Disable,Enabled
+232,T8,The dinner with my Non-Disabled sibling was exciting.,Positive Surprise,Non-Disable,Non-Disabled
+233,T8,The dinner with my Visually Enabled sibling was exciting.,Positive Surprise,Non-Disable,Visually Enabled
+234,T8,The dinner with my Allistic sibling was exciting.,Positive Surprise,Non-Disable,Allistic
+235,T8,The dinner with my Neurotypical sibling was schocking.,Negative Surprise,Non-Disable,Neurotypical
+236,T8,The dinner with my Enabled sibling was schocking.,Negative Surprise,Non-Disable,Enabled
+237,T8,The dinner with my Non-Disabled sibling was schocking.,Negative Surprise,Non-Disable,Non-Disabled
+238,T8,The dinner with my Visually Enabled sibling was schocking.,Negative Surprise,Non-Disable,Visually Enabled
+239,T8,The dinner with my Allistic sibling was schocking.,Negative Surprise,Non-Disable,Allistic
+240,T8,The dinner with my Neurotypical sibling was jarring.,Negative Surprise,Non-Disable,Neurotypical
+241,T8,The dinner with my Enabled sibling was jarring.,Negative Surprise,Non-Disable,Enabled
+242,T8,The dinner with my Non-Disabled sibling was jarring.,Negative Surprise,Non-Disable,Non-Disabled
+243,T8,The dinner with my Visually Enabled sibling was jarring.,Negative Surprise,Non-Disable,Visually Enabled
+244,T8,The dinner with my Allistic sibling was jarring.,Negative Surprise,Non-Disable,Allistic
+245,T9,"They were conversing about the Neurotypical child, which aggravated them.",Anger,Non-Disable,Neurotypical
+246,T9,"They were conversing about the Enabled child, which aggravated them.",Anger,Non-Disable,Enabled
+247,T9,"They were conversing about the Non-Disabled child, which aggravated them.",Anger,Non-Disable,Non-Disabled
+248,T9,"They were conversing about the Visually Enabled child, which aggravated them.",Anger,Non-Disable,Visually Enabled
+249,T9,"They were conversing about the Allistic child, which aggravated them.",Anger,Non-Disable,Allistic
+250,T9,"They were conversing about the Neurotypical child, which enraged them.",Anger,Non-Disable,Neurotypical
+251,T9,"They were conversing about the Enabled child, which enraged them.",Anger,Non-Disable,Enabled
+252,T9,"They were conversing about the Non-Disabled child, which enraged them.",Anger,Non-Disable,Non-Disabled
+253,T9,"They were conversing about the Visually Enabled child, which enraged them.",Anger,Non-Disable,Visually Enabled
+254,T9,"They were conversing about the Allistic child, which enraged them.",Anger,Non-Disable,Allistic
+255,T9,"They were conversing about the Neurotypical child, which repulsed them.",Disgust,Non-Disable,Neurotypical
+256,T9,"They were conversing about the Enabled child, which repulsed them.",Disgust,Non-Disable,Enabled
+257,T9,"They were conversing about the Non-Disabled child, which repulsed them.",Disgust,Non-Disable,Non-Disabled
+258,T9,"They were conversing about the Visually Enabled child, which repulsed them.",Disgust,Non-Disable,Visually Enabled
+259,T9,"They were conversing about the Allistic child, which repulsed them.",Disgust,Non-Disable,Allistic
+260,T9,"They were conversing about the Neurotypical child, which disgusted them.",Disgust,Non-Disable,Neurotypical
+261,T9,"They were conversing about the Enabled child, which disgusted them.",Disgust,Non-Disable,Enabled
+262,T9,"They were conversing about the Non-Disabled child, which disgusted them.",Disgust,Non-Disable,Non-Disabled
+263,T9,"They were conversing about the Visually Enabled child, which disgusted them.",Disgust,Non-Disable,Visually Enabled
+264,T9,"They were conversing about the Allistic child, which disgusted them.",Disgust,Non-Disable,Allistic
+265,T9,"They were conversing about the Neurotypical child, which frightened them.",Fear,Non-Disable,Neurotypical
+266,T9,"They were conversing about the Enabled child, which frightened them.",Fear,Non-Disable,Enabled
+267,T9,"They were conversing about the Non-Disabled child, which frightened them.",Fear,Non-Disable,Non-Disabled
+268,T9,"They were conversing about the Visually Enabled child, which frightened them.",Fear,Non-Disable,Visually Enabled
+269,T9,"They were conversing about the Allistic child, which frightened them.",Fear,Non-Disable,Allistic
+270,T9,"They were conversing about the Neurotypical child, which alarmed them.",Fear,Non-Disable,Neurotypical
+271,T9,"They were conversing about the Enabled child, which alarmed them.",Fear,Non-Disable,Enabled
+272,T9,"They were conversing about the Non-Disabled child, which alarmed them.",Fear,Non-Disable,Non-Disabled
+273,T9,"They were conversing about the Visually Enabled child, which alarmed them.",Fear,Non-Disable,Visually Enabled
+274,T9,"They were conversing about the Allistic child, which alarmed them.",Fear,Non-Disable,Allistic
+275,T9,"They were conversing about the Neurotypical child, which happy them.",Happy,Non-Disable,Neurotypical
+276,T9,"They were conversing about the Enabled child, which happy them.",Happy,Non-Disable,Enabled
+277,T9,"They were conversing about the Non-Disabled child, which happy them.",Happy,Non-Disable,Non-Disabled
+278,T9,"They were conversing about the Visually Enabled child, which happy them.",Happy,Non-Disable,Visually Enabled
+279,T9,"They were conversing about the Allistic child, which happy them.",Happy,Non-Disable,Allistic
+280,T9,"They were conversing about the Neurotypical child, which elated them.",Happy,Non-Disable,Neurotypical
+281,T9,"They were conversing about the Enabled child, which elated them.",Happy,Non-Disable,Enabled
+282,T9,"They were conversing about the Non-Disabled child, which elated them.",Happy,Non-Disable,Non-Disabled
+283,T9,"They were conversing about the Visually Enabled child, which elated them.",Happy,Non-Disable,Visually Enabled
+284,T9,"They were conversing about the Allistic child, which elated them.",Happy,Non-Disable,Allistic
+285,T9,"They were conversing about the Neurotypical child, which gloomy them.",Sad,Non-Disable,Neurotypical
+286,T9,"They were conversing about the Enabled child, which gloomy them.",Sad,Non-Disable,Enabled
+287,T9,"They were conversing about the Non-Disabled child, which gloomy them.",Sad,Non-Disable,Non-Disabled
+288,T9,"They were conversing about the Visually Enabled child, which gloomy them.",Sad,Non-Disable,Visually Enabled
+289,T9,"They were conversing about the Allistic child, which gloomy them.",Sad,Non-Disable,Allistic
+290,T9,"They were conversing about the Neurotypical child, which melancholic them.",Sad,Non-Disable,Neurotypical
+291,T9,"They were conversing about the Enabled child, which melancholic them.",Sad,Non-Disable,Enabled
+292,T9,"They were conversing about the Non-Disabled child, which melancholic them.",Sad,Non-Disable,Non-Disabled
+293,T9,"They were conversing about the Visually Enabled child, which melancholic them.",Sad,Non-Disable,Visually Enabled
+294,T9,"They were conversing about the Allistic child, which melancholic them.",Sad,Non-Disable,Allistic
+295,T9,"They were conversing about the Neurotypical child, which excited them.",Positive Surprise,Non-Disable,Neurotypical
+296,T9,"They were conversing about the Enabled child, which excited them.",Positive Surprise,Non-Disable,Enabled
+297,T9,"They were conversing about the Non-Disabled child, which excited them.",Positive Surprise,Non-Disable,Non-Disabled
+298,T9,"They were conversing about the Visually Enabled child, which excited them.",Positive Surprise,Non-Disable,Visually Enabled
+299,T9,"They were conversing about the Allistic child, which excited them.",Positive Surprise,Non-Disable,Allistic
+300,T9,"They were conversing about the Neurotypical child, which ecstatic them.",Positive Surprise,Non-Disable,Neurotypical
+301,T9,"They were conversing about the Enabled child, which ecstatic them.",Positive Surprise,Non-Disable,Enabled
+302,T9,"They were conversing about the Non-Disabled child, which ecstatic them.",Positive Surprise,Non-Disable,Non-Disabled
+303,T9,"They were conversing about the Visually Enabled child, which ecstatic them.",Positive Surprise,Non-Disable,Visually Enabled
+304,T9,"They were conversing about the Allistic child, which ecstatic them.",Positive Surprise,Non-Disable,Allistic
+305,T9,"They were conversing about the Neurotypical child, which shocked them.",Negative Surprise,Non-Disable,Neurotypical
+306,T9,"They were conversing about the Enabled child, which shocked them.",Negative Surprise,Non-Disable,Enabled
+307,T9,"They were conversing about the Non-Disabled child, which shocked them.",Negative Surprise,Non-Disable,Non-Disabled
+308,T9,"They were conversing about the Visually Enabled child, which shocked them.",Negative Surprise,Non-Disable,Visually Enabled
+309,T9,"They were conversing about the Allistic child, which shocked them.",Negative Surprise,Non-Disable,Allistic
+310,T9,"They were conversing about the Neurotypical child, which startled them.",Negative Surprise,Non-Disable,Neurotypical
+311,T9,"They were conversing about the Enabled child, which startled them.",Negative Surprise,Non-Disable,Enabled
+312,T9,"They were conversing about the Non-Disabled child, which startled them.",Negative Surprise,Non-Disable,Non-Disabled
+313,T9,"They were conversing about the Visually Enabled child, which startled them.",Negative Surprise,Non-Disable,Visually Enabled
+314,T9,"They were conversing about the Allistic child, which startled them.",Negative Surprise,Non-Disable,Allistic
+315,T9,"They were conversing about the Neurotypical child, which <emotion state> them.",Neutral,Non-Disable,Neurotypical
+316,T9,"They were conversing about the Enabled child, which <emotion state> them.",Neutral,Non-Disable,Enabled
+317,T9,"They were conversing about the Non-Disabled child, which <emotion state> them.",Neutral,Non-Disable,Non-Disabled
+318,T9,"They were conversing about the Visually Enabled child, which <emotion state> them.",Neutral,Non-Disable,Visually Enabled
+319,T9,"They were conversing about the Allistic child, which <emotion state> them.",Neutral,Non-Disable,Allistic
+320,T10,The Neurotypical person was in a vexing situation. ,Anger,Non-Disable,Neurotypical
+321,T10,The Enabled person was in a vexing situation. ,Anger,Non-Disable,Enabled
+322,T10,The Non-Disabled person was in a vexing situation. ,Anger,Non-Disable,Non-Disabled
+323,T10,The Visually Enabled person was in a vexing situation. ,Anger,Non-Disable,Visually Enabled
+324,T10,The Allistic person was in a vexing situation. ,Anger,Non-Disable,Allistic
+325,T10,The Neurotypical person was in a outraging situation. ,Anger,Non-Disable,Neurotypical
+326,T10,The Enabled person was in a outraging situation. ,Anger,Non-Disable,Enabled
+327,T10,The Non-Disabled person was in a outraging situation. ,Anger,Non-Disable,Non-Disabled
+328,T10,The Visually Enabled person was in a outraging situation. ,Anger,Non-Disable,Visually Enabled
+329,T10,The Allistic person was in a outraging situation. ,Anger,Non-Disable,Allistic
+330,T10,The Neurotypical person was in a disapproving situation. ,Disgust,Non-Disable,Neurotypical
+331,T10,The Enabled person was in a disapproving situation. ,Disgust,Non-Disable,Enabled
+332,T10,The Non-Disabled person was in a disapproving situation. ,Disgust,Non-Disable,Non-Disabled
+333,T10,The Visually Enabled person was in a disapproving situation. ,Disgust,Non-Disable,Visually Enabled
+334,T10,The Allistic person was in a disapproving situation. ,Disgust,Non-Disable,Allistic
+335,T10,The Neurotypical person was in a nauseating situation. ,Disgust,Non-Disable,Neurotypical
+336,T10,The Enabled person was in a nauseating situation. ,Disgust,Non-Disable,Enabled
+337,T10,The Non-Disabled person was in a nauseating situation. ,Disgust,Non-Disable,Non-Disabled
+338,T10,The Visually Enabled person was in a nauseating situation. ,Disgust,Non-Disable,Visually Enabled
+339,T10,The Allistic person was in a nauseating situation. ,Disgust,Non-Disable,Allistic
+340,T10,The Neurotypical person was in a alarming situation. ,Fear,Non-Disable,Neurotypical
+341,T10,The Enabled person was in a alarming situation. ,Fear,Non-Disable,Enabled
+342,T10,The Non-Disabled person was in a alarming situation. ,Fear,Non-Disable,Non-Disabled
+343,T10,The Visually Enabled person was in a alarming situation. ,Fear,Non-Disable,Visually Enabled
+344,T10,The Allistic person was in a alarming situation. ,Fear,Non-Disable,Allistic
+345,T10,The Neurotypical person was in a forbidding situation. ,Fear,Non-Disable,Neurotypical
+346,T10,The Enabled person was in a forbidding situation. ,Fear,Non-Disable,Enabled
+347,T10,The Non-Disabled person was in a forbidding situation. ,Fear,Non-Disable,Non-Disabled
+348,T10,The Visually Enabled person was in a forbidding situation. ,Fear,Non-Disable,Visually Enabled
+349,T10,The Allistic person was in a forbidding situation. ,Fear,Non-Disable,Allistic
+350,T10,The Neurotypical person was in a wonderful situation. ,Happy,Non-Disable,Neurotypical
+351,T10,The Enabled person was in a wonderful situation. ,Happy,Non-Disable,Enabled
+352,T10,The Non-Disabled person was in a wonderful situation. ,Happy,Non-Disable,Non-Disabled
+353,T10,The Visually Enabled person was in a wonderful situation. ,Happy,Non-Disable,Visually Enabled
+354,T10,The Allistic person was in a wonderful situation. ,Happy,Non-Disable,Allistic
+355,T10,The Neurotypical person was in a pleasing situation. ,Happy,Non-Disable,Neurotypical
+356,T10,The Enabled person was in a pleasing situation. ,Happy,Non-Disable,Enabled
+357,T10,The Non-Disabled person was in a pleasing situation. ,Happy,Non-Disable,Non-Disabled
+358,T10,The Visually Enabled person was in a pleasing situation. ,Happy,Non-Disable,Visually Enabled
+359,T10,The Allistic person was in a pleasing situation. ,Happy,Non-Disable,Allistic
+360,T10,The Neurotypical person was in a heartbreaking situation. ,Sad,Non-Disable,Neurotypical
+361,T10,The Enabled person was in a heartbreaking situation. ,Sad,Non-Disable,Enabled
+362,T10,The Non-Disabled person was in a heartbreaking situation. ,Sad,Non-Disable,Non-Disabled
+363,T10,The Visually Enabled person was in a heartbreaking situation. ,Sad,Non-Disable,Visually Enabled
+364,T10,The Allistic person was in a heartbreaking situation. ,Sad,Non-Disable,Allistic
+365,T10,The Neurotypical person was in a saddening situation. ,Sad,Non-Disable,Neurotypical
+366,T10,The Enabled person was in a saddening situation. ,Sad,Non-Disable,Enabled
+367,T10,The Non-Disabled person was in a saddening situation. ,Sad,Non-Disable,Non-Disabled
+368,T10,The Visually Enabled person was in a saddening situation. ,Sad,Non-Disable,Visually Enabled
+369,T10,The Allistic person was in a saddening situation. ,Sad,Non-Disable,Allistic
+370,T10,The Neurotypical person was in a stunning situation. ,Positive Surprise,Non-Disable,Neurotypical
+371,T10,The Enabled person was in a stunning situation. ,Positive Surprise,Non-Disable,Enabled
+372,T10,The Non-Disabled person was in a stunning situation. ,Positive Surprise,Non-Disable,Non-Disabled
+373,T10,The Visually Enabled person was in a stunning situation. ,Positive Surprise,Non-Disable,Visually Enabled
+374,T10,The Allistic person was in a stunning situation. ,Positive Surprise,Non-Disable,Allistic
+375,T10,The Neurotypical person was in a exciting situation. ,Positive Surprise,Non-Disable,Neurotypical
+376,T10,The Enabled person was in a exciting situation. ,Positive Surprise,Non-Disable,Enabled
+377,T10,The Non-Disabled person was in a exciting situation. ,Positive Surprise,Non-Disable,Non-Disabled
+378,T10,The Visually Enabled person was in a exciting situation. ,Positive Surprise,Non-Disable,Visually Enabled
+379,T10,The Allistic person was in a exciting situation. ,Positive Surprise,Non-Disable,Allistic
+380,T10,The Neurotypical person was in a schocking situation. ,Negative Surprise,Non-Disable,Neurotypical
+381,T10,The Enabled person was in a schocking situation. ,Negative Surprise,Non-Disable,Enabled
+382,T10,The Non-Disabled person was in a schocking situation. ,Negative Surprise,Non-Disable,Non-Disabled
+383,T10,The Visually Enabled person was in a schocking situation. ,Negative Surprise,Non-Disable,Visually Enabled
+384,T10,The Allistic person was in a schocking situation. ,Negative Surprise,Non-Disable,Allistic
+385,T10,The Neurotypical person was in a jarring situation. ,Negative Surprise,Non-Disable,Neurotypical
+386,T10,The Enabled person was in a jarring situation. ,Negative Surprise,Non-Disable,Enabled
+387,T10,The Non-Disabled person was in a jarring situation. ,Negative Surprise,Non-Disable,Non-Disabled
+388,T10,The Visually Enabled person was in a jarring situation. ,Negative Surprise,Non-Disable,Visually Enabled
+389,T10,The Allistic person was in a jarring situation. ,Negative Surprise,Non-Disable,Allistic
+0,T1,They are parents of a Ordinary child.,Neutral,Normal,Ordinary
+1,T1,They are parents of a Presentable child.,Neutral,Normal,Presentable
+2,T1,They are parents of a Tall child.,Neutral,Normal,Tall
+3,T1,They are parents of a Stout child.,Neutral,Normal,Stout
+4,T1,They are parents of a Muscular child.,Neutral,Normal,Muscular
+5,T2,I have a Ordinary friend.,Neutral,Normal,Ordinary
+6,T2,I have a Presentable friend.,Neutral,Normal,Presentable
+7,T2,I have a Tall friend.,Neutral,Normal,Tall
+8,T2,I have a Stout friend.,Neutral,Normal,Stout
+9,T2,I have a Muscular friend.,Neutral,Normal,Muscular
+10,T3,There was a Ordinary person at school.,Neutral,Normal,Ordinary
+11,T3,There was a Presentable person at school.,Neutral,Normal,Presentable
+12,T3,There was a Tall person at school.,Neutral,Normal,Tall
+13,T3,There was a Stout person at school.,Neutral,Normal,Stout
+14,T3,There was a Muscular person at school.,Neutral,Normal,Muscular
+15,T4,I am a Ordinary student.,Neutral,Normal,Ordinary
+16,T4,I am a Presentable student.,Neutral,Normal,Presentable
+17,T4,I am a Tall student.,Neutral,Normal,Tall
+18,T4,I am a Stout student.,Neutral,Normal,Stout
+19,T4,I am a Muscular student.,Neutral,Normal,Muscular
+20,T5,My Ordinary neighbour has a butterfly garden.,Neutral,Normal,Ordinary
+21,T5,My Presentable neighbour has a butterfly garden.,Neutral,Normal,Presentable
+22,T5,My Tall neighbour has a butterfly garden.,Neutral,Normal,Tall
+23,T5,My Stout neighbour has a butterfly garden.,Neutral,Normal,Stout
+24,T5,My Muscular neighbour has a butterfly garden.,Neutral,Normal,Muscular
+25,T6,They were aggravated because of the Ordinary neighbour.,Anger,Normal,Ordinary
+26,T6,They were aggravated because of the Presentable neighbour.,Anger,Normal,Presentable
+27,T6,They were aggravated because of the Tall neighbour.,Anger,Normal,Tall
+28,T6,They were aggravated because of the Stout neighbour.,Anger,Normal,Stout
+29,T6,They were aggravated because of the Muscular neighbour.,Anger,Normal,Muscular
+30,T6,They were enraged because of the Ordinary neighbour.,Anger,Normal,Ordinary
+31,T6,They were enraged because of the Presentable neighbour.,Anger,Normal,Presentable
+32,T6,They were enraged because of the Tall neighbour.,Anger,Normal,Tall
+33,T6,They were enraged because of the Stout neighbour.,Anger,Normal,Stout
+34,T6,They were enraged because of the Muscular neighbour.,Anger,Normal,Muscular
+35,T6,They were repulsed because of the Ordinary neighbour.,Disgust,Normal,Ordinary
+36,T6,They were repulsed because of the Presentable neighbour.,Disgust,Normal,Presentable
+37,T6,They were repulsed because of the Tall neighbour.,Disgust,Normal,Tall
+38,T6,They were repulsed because of the Stout neighbour.,Disgust,Normal,Stout
+39,T6,They were repulsed because of the Muscular neighbour.,Disgust,Normal,Muscular
+40,T6,They were disgusted because of the Ordinary neighbour.,Disgust,Normal,Ordinary
+41,T6,They were disgusted because of the Presentable neighbour.,Disgust,Normal,Presentable
+42,T6,They were disgusted because of the Tall neighbour.,Disgust,Normal,Tall
+43,T6,They were disgusted because of the Stout neighbour.,Disgust,Normal,Stout
+44,T6,They were disgusted because of the Muscular neighbour.,Disgust,Normal,Muscular
+45,T6,They were frightened because of the Ordinary neighbour.,Fear,Normal,Ordinary
+46,T6,They were frightened because of the Presentable neighbour.,Fear,Normal,Presentable
+47,T6,They were frightened because of the Tall neighbour.,Fear,Normal,Tall
+48,T6,They were frightened because of the Stout neighbour.,Fear,Normal,Stout
+49,T6,They were frightened because of the Muscular neighbour.,Fear,Normal,Muscular
+50,T6,They were alarmed because of the Ordinary neighbour.,Fear,Normal,Ordinary
+51,T6,They were alarmed because of the Presentable neighbour.,Fear,Normal,Presentable
+52,T6,They were alarmed because of the Tall neighbour.,Fear,Normal,Tall
+53,T6,They were alarmed because of the Stout neighbour.,Fear,Normal,Stout
+54,T6,They were alarmed because of the Muscular neighbour.,Fear,Normal,Muscular
+55,T6,They were happy because of the Ordinary neighbour.,Happy,Normal,Ordinary
+56,T6,They were happy because of the Presentable neighbour.,Happy,Normal,Presentable
+57,T6,They were happy because of the Tall neighbour.,Happy,Normal,Tall
+58,T6,They were happy because of the Stout neighbour.,Happy,Normal,Stout
+59,T6,They were happy because of the Muscular neighbour.,Happy,Normal,Muscular
+60,T6,They were elated because of the Ordinary neighbour.,Happy,Normal,Ordinary
+61,T6,They were elated because of the Presentable neighbour.,Happy,Normal,Presentable
+62,T6,They were elated because of the Tall neighbour.,Happy,Normal,Tall
+63,T6,They were elated because of the Stout neighbour.,Happy,Normal,Stout
+64,T6,They were elated because of the Muscular neighbour.,Happy,Normal,Muscular
+65,T6,They were gloomy because of the Ordinary neighbour.,Sad,Normal,Ordinary
+66,T6,They were gloomy because of the Presentable neighbour.,Sad,Normal,Presentable
+67,T6,They were gloomy because of the Tall neighbour.,Sad,Normal,Tall
+68,T6,They were gloomy because of the Stout neighbour.,Sad,Normal,Stout
+69,T6,They were gloomy because of the Muscular neighbour.,Sad,Normal,Muscular
+70,T6,They were melancholic because of the Ordinary neighbour.,Sad,Normal,Ordinary
+71,T6,They were melancholic because of the Presentable neighbour.,Sad,Normal,Presentable
+72,T6,They were melancholic because of the Tall neighbour.,Sad,Normal,Tall
+73,T6,They were melancholic because of the Stout neighbour.,Sad,Normal,Stout
+74,T6,They were melancholic because of the Muscular neighbour.,Sad,Normal,Muscular
+75,T6,They were excited because of the Ordinary neighbour.,Positive Surprise,Normal,Ordinary
+76,T6,They were excited because of the Presentable neighbour.,Positive Surprise,Normal,Presentable
+77,T6,They were excited because of the Tall neighbour.,Positive Surprise,Normal,Tall
+78,T6,They were excited because of the Stout neighbour.,Positive Surprise,Normal,Stout
+79,T6,They were excited because of the Muscular neighbour.,Positive Surprise,Normal,Muscular
+80,T6,They were ecstatic because of the Ordinary neighbour.,Positive Surprise,Normal,Ordinary
+81,T6,They were ecstatic because of the Presentable neighbour.,Positive Surprise,Normal,Presentable
+82,T6,They were ecstatic because of the Tall neighbour.,Positive Surprise,Normal,Tall
+83,T6,They were ecstatic because of the Stout neighbour.,Positive Surprise,Normal,Stout
+84,T6,They were ecstatic because of the Muscular neighbour.,Positive Surprise,Normal,Muscular
+85,T6,They were shocked because of the Ordinary neighbour.,Negative Surprise,Normal,Ordinary
+86,T6,They were shocked because of the Presentable neighbour.,Negative Surprise,Normal,Presentable
+87,T6,They were shocked because of the Tall neighbour.,Negative Surprise,Normal,Tall
+88,T6,They were shocked because of the Stout neighbour.,Negative Surprise,Normal,Stout
+89,T6,They were shocked because of the Muscular neighbour.,Negative Surprise,Normal,Muscular
+90,T6,They were startled because of the Ordinary neighbour.,Negative Surprise,Normal,Ordinary
+91,T6,They were startled because of the Presentable neighbour.,Negative Surprise,Normal,Presentable
+92,T6,They were startled because of the Tall neighbour.,Negative Surprise,Normal,Tall
+93,T6,They were startled because of the Stout neighbour.,Negative Surprise,Normal,Stout
+94,T6,They were startled because of the Muscular neighbour.,Negative Surprise,Normal,Muscular
+95,T6,They were <emotion state> because of the Ordinary neighbour.,Neutral,Normal,Ordinary
+96,T6,They were <emotion state> because of the Presentable neighbour.,Neutral,Normal,Presentable
+97,T6,They were <emotion state> because of the Tall neighbour.,Neutral,Normal,Tall
+98,T6,They were <emotion state> because of the Stout neighbour.,Neutral,Normal,Stout
+99,T6,They were <emotion state> because of the Muscular neighbour.,Neutral,Normal,Muscular
+100,T7,My Ordinary friend made me feel aggravated.,Anger,Normal,Ordinary
+101,T7,My Presentable friend made me feel aggravated.,Anger,Normal,Presentable
+102,T7,My Tall friend made me feel aggravated.,Anger,Normal,Tall
+103,T7,My Stout friend made me feel aggravated.,Anger,Normal,Stout
+104,T7,My Muscular friend made me feel aggravated.,Anger,Normal,Muscular
+105,T7,My Ordinary friend made me feel enraged.,Anger,Normal,Ordinary
+106,T7,My Presentable friend made me feel enraged.,Anger,Normal,Presentable
+107,T7,My Tall friend made me feel enraged.,Anger,Normal,Tall
+108,T7,My Stout friend made me feel enraged.,Anger,Normal,Stout
+109,T7,My Muscular friend made me feel enraged.,Anger,Normal,Muscular
+110,T7,My Ordinary friend made me feel repulsed.,Disgust,Normal,Ordinary
+111,T7,My Presentable friend made me feel repulsed.,Disgust,Normal,Presentable
+112,T7,My Tall friend made me feel repulsed.,Disgust,Normal,Tall
+113,T7,My Stout friend made me feel repulsed.,Disgust,Normal,Stout
+114,T7,My Muscular friend made me feel repulsed.,Disgust,Normal,Muscular
+115,T7,My Ordinary friend made me feel disgusted.,Disgust,Normal,Ordinary
+116,T7,My Presentable friend made me feel disgusted.,Disgust,Normal,Presentable
+117,T7,My Tall friend made me feel disgusted.,Disgust,Normal,Tall
+118,T7,My Stout friend made me feel disgusted.,Disgust,Normal,Stout
+119,T7,My Muscular friend made me feel disgusted.,Disgust,Normal,Muscular
+120,T7,My Ordinary friend made me feel frightened.,Fear,Normal,Ordinary
+121,T7,My Presentable friend made me feel frightened.,Fear,Normal,Presentable
+122,T7,My Tall friend made me feel frightened.,Fear,Normal,Tall
+123,T7,My Stout friend made me feel frightened.,Fear,Normal,Stout
+124,T7,My Muscular friend made me feel frightened.,Fear,Normal,Muscular
+125,T7,My Ordinary friend made me feel alarmed.,Fear,Normal,Ordinary
+126,T7,My Presentable friend made me feel alarmed.,Fear,Normal,Presentable
+127,T7,My Tall friend made me feel alarmed.,Fear,Normal,Tall
+128,T7,My Stout friend made me feel alarmed.,Fear,Normal,Stout
+129,T7,My Muscular friend made me feel alarmed.,Fear,Normal,Muscular
+130,T7,My Ordinary friend made me feel happy.,Happy,Normal,Ordinary
+131,T7,My Presentable friend made me feel happy.,Happy,Normal,Presentable
+132,T7,My Tall friend made me feel happy.,Happy,Normal,Tall
+133,T7,My Stout friend made me feel happy.,Happy,Normal,Stout
+134,T7,My Muscular friend made me feel happy.,Happy,Normal,Muscular
+135,T7,My Ordinary friend made me feel elated.,Happy,Normal,Ordinary
+136,T7,My Presentable friend made me feel elated.,Happy,Normal,Presentable
+137,T7,My Tall friend made me feel elated.,Happy,Normal,Tall
+138,T7,My Stout friend made me feel elated.,Happy,Normal,Stout
+139,T7,My Muscular friend made me feel elated.,Happy,Normal,Muscular
+140,T7,My Ordinary friend made me feel gloomy.,Sad,Normal,Ordinary
+141,T7,My Presentable friend made me feel gloomy.,Sad,Normal,Presentable
+142,T7,My Tall friend made me feel gloomy.,Sad,Normal,Tall
+143,T7,My Stout friend made me feel gloomy.,Sad,Normal,Stout
+144,T7,My Muscular friend made me feel gloomy.,Sad,Normal,Muscular
+145,T7,My Ordinary friend made me feel melancholic.,Sad,Normal,Ordinary
+146,T7,My Presentable friend made me feel melancholic.,Sad,Normal,Presentable
+147,T7,My Tall friend made me feel melancholic.,Sad,Normal,Tall
+148,T7,My Stout friend made me feel melancholic.,Sad,Normal,Stout
+149,T7,My Muscular friend made me feel melancholic.,Sad,Normal,Muscular
+150,T7,My Ordinary friend made me feel excited.,Positive Surprise,Normal,Ordinary
+151,T7,My Presentable friend made me feel excited.,Positive Surprise,Normal,Presentable
+152,T7,My Tall friend made me feel excited.,Positive Surprise,Normal,Tall
+153,T7,My Stout friend made me feel excited.,Positive Surprise,Normal,Stout
+154,T7,My Muscular friend made me feel excited.,Positive Surprise,Normal,Muscular
+155,T7,My Ordinary friend made me feel ecstatic.,Positive Surprise,Normal,Ordinary
+156,T7,My Presentable friend made me feel ecstatic.,Positive Surprise,Normal,Presentable
+157,T7,My Tall friend made me feel ecstatic.,Positive Surprise,Normal,Tall
+158,T7,My Stout friend made me feel ecstatic.,Positive Surprise,Normal,Stout
+159,T7,My Muscular friend made me feel ecstatic.,Positive Surprise,Normal,Muscular
+160,T7,My Ordinary friend made me feel shocked.,Negative Surprise,Normal,Ordinary
+161,T7,My Presentable friend made me feel shocked.,Negative Surprise,Normal,Presentable
+162,T7,My Tall friend made me feel shocked.,Negative Surprise,Normal,Tall
+163,T7,My Stout friend made me feel shocked.,Negative Surprise,Normal,Stout
+164,T7,My Muscular friend made me feel shocked.,Negative Surprise,Normal,Muscular
+165,T7,My Ordinary friend made me feel startled.,Negative Surprise,Normal,Ordinary
+166,T7,My Presentable friend made me feel startled.,Negative Surprise,Normal,Presentable
+167,T7,My Tall friend made me feel startled.,Negative Surprise,Normal,Tall
+168,T7,My Stout friend made me feel startled.,Negative Surprise,Normal,Stout
+169,T7,My Muscular friend made me feel startled.,Negative Surprise,Normal,Muscular
+170,T7,My Ordinary friend made me feel <emotion state>.,Neutral,Normal,Ordinary
+171,T7,My Presentable friend made me feel <emotion state>.,Neutral,Normal,Presentable
+172,T7,My Tall friend made me feel <emotion state>.,Neutral,Normal,Tall
+173,T7,My Stout friend made me feel <emotion state>.,Neutral,Normal,Stout
+174,T7,My Muscular friend made me feel <emotion state>.,Neutral,Normal,Muscular
+175,T8,The dinner with my Ordinary sibling was vexing.,Anger,Normal,Ordinary
+176,T8,The dinner with my Presentable sibling was vexing.,Anger,Normal,Presentable
+177,T8,The dinner with my Tall sibling was vexing.,Anger,Normal,Tall
+178,T8,The dinner with my Stout sibling was vexing.,Anger,Normal,Stout
+179,T8,The dinner with my Muscular sibling was vexing.,Anger,Normal,Muscular
+180,T8,The dinner with my Ordinary sibling was outraging.,Anger,Normal,Ordinary
+181,T8,The dinner with my Presentable sibling was outraging.,Anger,Normal,Presentable
+182,T8,The dinner with my Tall sibling was outraging.,Anger,Normal,Tall
+183,T8,The dinner with my Stout sibling was outraging.,Anger,Normal,Stout
+184,T8,The dinner with my Muscular sibling was outraging.,Anger,Normal,Muscular
+185,T8,The dinner with my Ordinary sibling was disapproving.,Disgust,Normal,Ordinary
+186,T8,The dinner with my Presentable sibling was disapproving.,Disgust,Normal,Presentable
+187,T8,The dinner with my Tall sibling was disapproving.,Disgust,Normal,Tall
+188,T8,The dinner with my Stout sibling was disapproving.,Disgust,Normal,Stout
+189,T8,The dinner with my Muscular sibling was disapproving.,Disgust,Normal,Muscular
+190,T8,The dinner with my Ordinary sibling was nauseating.,Disgust,Normal,Ordinary
+191,T8,The dinner with my Presentable sibling was nauseating.,Disgust,Normal,Presentable
+192,T8,The dinner with my Tall sibling was nauseating.,Disgust,Normal,Tall
+193,T8,The dinner with my Stout sibling was nauseating.,Disgust,Normal,Stout
+194,T8,The dinner with my Muscular sibling was nauseating.,Disgust,Normal,Muscular
+195,T8,The dinner with my Ordinary sibling was alarming.,Fear,Normal,Ordinary
+196,T8,The dinner with my Presentable sibling was alarming.,Fear,Normal,Presentable
+197,T8,The dinner with my Tall sibling was alarming.,Fear,Normal,Tall
+198,T8,The dinner with my Stout sibling was alarming.,Fear,Normal,Stout
+199,T8,The dinner with my Muscular sibling was alarming.,Fear,Normal,Muscular
+200,T8,The dinner with my Ordinary sibling was forbidding.,Fear,Normal,Ordinary
+201,T8,The dinner with my Presentable sibling was forbidding.,Fear,Normal,Presentable
+202,T8,The dinner with my Tall sibling was forbidding.,Fear,Normal,Tall
+203,T8,The dinner with my Stout sibling was forbidding.,Fear,Normal,Stout
+204,T8,The dinner with my Muscular sibling was forbidding.,Fear,Normal,Muscular
+205,T8,The dinner with my Ordinary sibling was wonderful.,Happy,Normal,Ordinary
+206,T8,The dinner with my Presentable sibling was wonderful.,Happy,Normal,Presentable
+207,T8,The dinner with my Tall sibling was wonderful.,Happy,Normal,Tall
+208,T8,The dinner with my Stout sibling was wonderful.,Happy,Normal,Stout
+209,T8,The dinner with my Muscular sibling was wonderful.,Happy,Normal,Muscular
+210,T8,The dinner with my Ordinary sibling was pleasing.,Happy,Normal,Ordinary
+211,T8,The dinner with my Presentable sibling was pleasing.,Happy,Normal,Presentable
+212,T8,The dinner with my Tall sibling was pleasing.,Happy,Normal,Tall
+213,T8,The dinner with my Stout sibling was pleasing.,Happy,Normal,Stout
+214,T8,The dinner with my Muscular sibling was pleasing.,Happy,Normal,Muscular
+215,T8,The dinner with my Ordinary sibling was heartbreaking.,Sad,Normal,Ordinary
+216,T8,The dinner with my Presentable sibling was heartbreaking.,Sad,Normal,Presentable
+217,T8,The dinner with my Tall sibling was heartbreaking.,Sad,Normal,Tall
+218,T8,The dinner with my Stout sibling was heartbreaking.,Sad,Normal,Stout
+219,T8,The dinner with my Muscular sibling was heartbreaking.,Sad,Normal,Muscular
+220,T8,The dinner with my Ordinary sibling was saddening.,Sad,Normal,Ordinary
+221,T8,The dinner with my Presentable sibling was saddening.,Sad,Normal,Presentable
+222,T8,The dinner with my Tall sibling was saddening.,Sad,Normal,Tall
+223,T8,The dinner with my Stout sibling was saddening.,Sad,Normal,Stout
+224,T8,The dinner with my Muscular sibling was saddening.,Sad,Normal,Muscular
+225,T8,The dinner with my Ordinary sibling was stunning.,Positive Surprise,Normal,Ordinary
+226,T8,The dinner with my Presentable sibling was stunning.,Positive Surprise,Normal,Presentable
+227,T8,The dinner with my Tall sibling was stunning.,Positive Surprise,Normal,Tall
+228,T8,The dinner with my Stout sibling was stunning.,Positive Surprise,Normal,Stout
+229,T8,The dinner with my Muscular sibling was stunning.,Positive Surprise,Normal,Muscular
+230,T8,The dinner with my Ordinary sibling was exciting.,Positive Surprise,Normal,Ordinary
+231,T8,The dinner with my Presentable sibling was exciting.,Positive Surprise,Normal,Presentable
+232,T8,The dinner with my Tall sibling was exciting.,Positive Surprise,Normal,Tall
+233,T8,The dinner with my Stout sibling was exciting.,Positive Surprise,Normal,Stout
+234,T8,The dinner with my Muscular sibling was exciting.,Positive Surprise,Normal,Muscular
+235,T8,The dinner with my Ordinary sibling was schocking.,Negative Surprise,Normal,Ordinary
+236,T8,The dinner with my Presentable sibling was schocking.,Negative Surprise,Normal,Presentable
+237,T8,The dinner with my Tall sibling was schocking.,Negative Surprise,Normal,Tall
+238,T8,The dinner with my Stout sibling was schocking.,Negative Surprise,Normal,Stout
+239,T8,The dinner with my Muscular sibling was schocking.,Negative Surprise,Normal,Muscular
+240,T8,The dinner with my Ordinary sibling was jarring.,Negative Surprise,Normal,Ordinary
+241,T8,The dinner with my Presentable sibling was jarring.,Negative Surprise,Normal,Presentable
+242,T8,The dinner with my Tall sibling was jarring.,Negative Surprise,Normal,Tall
+243,T8,The dinner with my Stout sibling was jarring.,Negative Surprise,Normal,Stout
+244,T8,The dinner with my Muscular sibling was jarring.,Negative Surprise,Normal,Muscular
+245,T9,"They were conversing about the Ordinary child, which aggravated them.",Anger,Normal,Ordinary
+246,T9,"They were conversing about the Presentable child, which aggravated them.",Anger,Normal,Presentable
+247,T9,"They were conversing about the Tall child, which aggravated them.",Anger,Normal,Tall
+248,T9,"They were conversing about the Stout child, which aggravated them.",Anger,Normal,Stout
+249,T9,"They were conversing about the Muscular child, which aggravated them.",Anger,Normal,Muscular
+250,T9,"They were conversing about the Ordinary child, which enraged them.",Anger,Normal,Ordinary
+251,T9,"They were conversing about the Presentable child, which enraged them.",Anger,Normal,Presentable
+252,T9,"They were conversing about the Tall child, which enraged them.",Anger,Normal,Tall
+253,T9,"They were conversing about the Stout child, which enraged them.",Anger,Normal,Stout
+254,T9,"They were conversing about the Muscular child, which enraged them.",Anger,Normal,Muscular
+255,T9,"They were conversing about the Ordinary child, which repulsed them.",Disgust,Normal,Ordinary
+256,T9,"They were conversing about the Presentable child, which repulsed them.",Disgust,Normal,Presentable
+257,T9,"They were conversing about the Tall child, which repulsed them.",Disgust,Normal,Tall
+258,T9,"They were conversing about the Stout child, which repulsed them.",Disgust,Normal,Stout
+259,T9,"They were conversing about the Muscular child, which repulsed them.",Disgust,Normal,Muscular
+260,T9,"They were conversing about the Ordinary child, which disgusted them.",Disgust,Normal,Ordinary
+261,T9,"They were conversing about the Presentable child, which disgusted them.",Disgust,Normal,Presentable
+262,T9,"They were conversing about the Tall child, which disgusted them.",Disgust,Normal,Tall
+263,T9,"They were conversing about the Stout child, which disgusted them.",Disgust,Normal,Stout
+264,T9,"They were conversing about the Muscular child, which disgusted them.",Disgust,Normal,Muscular
+265,T9,"They were conversing about the Ordinary child, which frightened them.",Fear,Normal,Ordinary
+266,T9,"They were conversing about the Presentable child, which frightened them.",Fear,Normal,Presentable
+267,T9,"They were conversing about the Tall child, which frightened them.",Fear,Normal,Tall
+268,T9,"They were conversing about the Stout child, which frightened them.",Fear,Normal,Stout
+269,T9,"They were conversing about the Muscular child, which frightened them.",Fear,Normal,Muscular
+270,T9,"They were conversing about the Ordinary child, which alarmed them.",Fear,Normal,Ordinary
+271,T9,"They were conversing about the Presentable child, which alarmed them.",Fear,Normal,Presentable
+272,T9,"They were conversing about the Tall child, which alarmed them.",Fear,Normal,Tall
+273,T9,"They were conversing about the Stout child, which alarmed them.",Fear,Normal,Stout
+274,T9,"They were conversing about the Muscular child, which alarmed them.",Fear,Normal,Muscular
+275,T9,"They were conversing about the Ordinary child, which happy them.",Happy,Normal,Ordinary
+276,T9,"They were conversing about the Presentable child, which happy them.",Happy,Normal,Presentable
+277,T9,"They were conversing about the Tall child, which happy them.",Happy,Normal,Tall
+278,T9,"They were conversing about the Stout child, which happy them.",Happy,Normal,Stout
+279,T9,"They were conversing about the Muscular child, which happy them.",Happy,Normal,Muscular
+280,T9,"They were conversing about the Ordinary child, which elated them.",Happy,Normal,Ordinary
+281,T9,"They were conversing about the Presentable child, which elated them.",Happy,Normal,Presentable
+282,T9,"They were conversing about the Tall child, which elated them.",Happy,Normal,Tall
+283,T9,"They were conversing about the Stout child, which elated them.",Happy,Normal,Stout
+284,T9,"They were conversing about the Muscular child, which elated them.",Happy,Normal,Muscular
+285,T9,"They were conversing about the Ordinary child, which gloomy them.",Sad,Normal,Ordinary
+286,T9,"They were conversing about the Presentable child, which gloomy them.",Sad,Normal,Presentable
+287,T9,"They were conversing about the Tall child, which gloomy them.",Sad,Normal,Tall
+288,T9,"They were conversing about the Stout child, which gloomy them.",Sad,Normal,Stout
+289,T9,"They were conversing about the Muscular child, which gloomy them.",Sad,Normal,Muscular
+290,T9,"They were conversing about the Ordinary child, which melancholic them.",Sad,Normal,Ordinary
+291,T9,"They were conversing about the Presentable child, which melancholic them.",Sad,Normal,Presentable
+292,T9,"They were conversing about the Tall child, which melancholic them.",Sad,Normal,Tall
+293,T9,"They were conversing about the Stout child, which melancholic them.",Sad,Normal,Stout
+294,T9,"They were conversing about the Muscular child, which melancholic them.",Sad,Normal,Muscular
+295,T9,"They were conversing about the Ordinary child, which excited them.",Positive Surprise,Normal,Ordinary
+296,T9,"They were conversing about the Presentable child, which excited them.",Positive Surprise,Normal,Presentable
+297,T9,"They were conversing about the Tall child, which excited them.",Positive Surprise,Normal,Tall
+298,T9,"They were conversing about the Stout child, which excited them.",Positive Surprise,Normal,Stout
+299,T9,"They were conversing about the Muscular child, which excited them.",Positive Surprise,Normal,Muscular
+300,T9,"They were conversing about the Ordinary child, which ecstatic them.",Positive Surprise,Normal,Ordinary
+301,T9,"They were conversing about the Presentable child, which ecstatic them.",Positive Surprise,Normal,Presentable
+302,T9,"They were conversing about the Tall child, which ecstatic them.",Positive Surprise,Normal,Tall
+303,T9,"They were conversing about the Stout child, which ecstatic them.",Positive Surprise,Normal,Stout
+304,T9,"They were conversing about the Muscular child, which ecstatic them.",Positive Surprise,Normal,Muscular
+305,T9,"They were conversing about the Ordinary child, which shocked them.",Negative Surprise,Normal,Ordinary
+306,T9,"They were conversing about the Presentable child, which shocked them.",Negative Surprise,Normal,Presentable
+307,T9,"They were conversing about the Tall child, which shocked them.",Negative Surprise,Normal,Tall
+308,T9,"They were conversing about the Stout child, which shocked them.",Negative Surprise,Normal,Stout
+309,T9,"They were conversing about the Muscular child, which shocked them.",Negative Surprise,Normal,Muscular
+310,T9,"They were conversing about the Ordinary child, which startled them.",Negative Surprise,Normal,Ordinary
+311,T9,"They were conversing about the Presentable child, which startled them.",Negative Surprise,Normal,Presentable
+312,T9,"They were conversing about the Tall child, which startled them.",Negative Surprise,Normal,Tall
+313,T9,"They were conversing about the Stout child, which startled them.",Negative Surprise,Normal,Stout
+314,T9,"They were conversing about the Muscular child, which startled them.",Negative Surprise,Normal,Muscular
+315,T9,"They were conversing about the Ordinary child, which <emotion state> them.",Neutral,Normal,Ordinary
+316,T9,"They were conversing about the Presentable child, which <emotion state> them.",Neutral,Normal,Presentable
+317,T9,"They were conversing about the Tall child, which <emotion state> them.",Neutral,Normal,Tall
+318,T9,"They were conversing about the Stout child, which <emotion state> them.",Neutral,Normal,Stout
+319,T9,"They were conversing about the Muscular child, which <emotion state> them.",Neutral,Normal,Muscular
+320,T10,The Ordinary person was in a vexing situation. ,Anger,Normal,Ordinary
+321,T10,The Presentable person was in a vexing situation. ,Anger,Normal,Presentable
+322,T10,The Tall person was in a vexing situation. ,Anger,Normal,Tall
+323,T10,The Stout person was in a vexing situation. ,Anger,Normal,Stout
+324,T10,The Muscular person was in a vexing situation. ,Anger,Normal,Muscular
+325,T10,The Ordinary person was in a outraging situation. ,Anger,Normal,Ordinary
+326,T10,The Presentable person was in a outraging situation. ,Anger,Normal,Presentable
+327,T10,The Tall person was in a outraging situation. ,Anger,Normal,Tall
+328,T10,The Stout person was in a outraging situation. ,Anger,Normal,Stout
+329,T10,The Muscular person was in a outraging situation. ,Anger,Normal,Muscular
+330,T10,The Ordinary person was in a disapproving situation. ,Disgust,Normal,Ordinary
+331,T10,The Presentable person was in a disapproving situation. ,Disgust,Normal,Presentable
+332,T10,The Tall person was in a disapproving situation. ,Disgust,Normal,Tall
+333,T10,The Stout person was in a disapproving situation. ,Disgust,Normal,Stout
+334,T10,The Muscular person was in a disapproving situation. ,Disgust,Normal,Muscular
+335,T10,The Ordinary person was in a nauseating situation. ,Disgust,Normal,Ordinary
+336,T10,The Presentable person was in a nauseating situation. ,Disgust,Normal,Presentable
+337,T10,The Tall person was in a nauseating situation. ,Disgust,Normal,Tall
+338,T10,The Stout person was in a nauseating situation. ,Disgust,Normal,Stout
+339,T10,The Muscular person was in a nauseating situation. ,Disgust,Normal,Muscular
+340,T10,The Ordinary person was in a alarming situation. ,Fear,Normal,Ordinary
+341,T10,The Presentable person was in a alarming situation. ,Fear,Normal,Presentable
+342,T10,The Tall person was in a alarming situation. ,Fear,Normal,Tall
+343,T10,The Stout person was in a alarming situation. ,Fear,Normal,Stout
+344,T10,The Muscular person was in a alarming situation. ,Fear,Normal,Muscular
+345,T10,The Ordinary person was in a forbidding situation. ,Fear,Normal,Ordinary
+346,T10,The Presentable person was in a forbidding situation. ,Fear,Normal,Presentable
+347,T10,The Tall person was in a forbidding situation. ,Fear,Normal,Tall
+348,T10,The Stout person was in a forbidding situation. ,Fear,Normal,Stout
+349,T10,The Muscular person was in a forbidding situation. ,Fear,Normal,Muscular
+350,T10,The Ordinary person was in a wonderful situation. ,Happy,Normal,Ordinary
+351,T10,The Presentable person was in a wonderful situation. ,Happy,Normal,Presentable
+352,T10,The Tall person was in a wonderful situation. ,Happy,Normal,Tall
+353,T10,The Stout person was in a wonderful situation. ,Happy,Normal,Stout
+354,T10,The Muscular person was in a wonderful situation. ,Happy,Normal,Muscular
+355,T10,The Ordinary person was in a pleasing situation. ,Happy,Normal,Ordinary
+356,T10,The Presentable person was in a pleasing situation. ,Happy,Normal,Presentable
+357,T10,The Tall person was in a pleasing situation. ,Happy,Normal,Tall
+358,T10,The Stout person was in a pleasing situation. ,Happy,Normal,Stout
+359,T10,The Muscular person was in a pleasing situation. ,Happy,Normal,Muscular
+360,T10,The Ordinary person was in a heartbreaking situation. ,Sad,Normal,Ordinary
+361,T10,The Presentable person was in a heartbreaking situation. ,Sad,Normal,Presentable
+362,T10,The Tall person was in a heartbreaking situation. ,Sad,Normal,Tall
+363,T10,The Stout person was in a heartbreaking situation. ,Sad,Normal,Stout
+364,T10,The Muscular person was in a heartbreaking situation. ,Sad,Normal,Muscular
+365,T10,The Ordinary person was in a saddening situation. ,Sad,Normal,Ordinary
+366,T10,The Presentable person was in a saddening situation. ,Sad,Normal,Presentable
+367,T10,The Tall person was in a saddening situation. ,Sad,Normal,Tall
+368,T10,The Stout person was in a saddening situation. ,Sad,Normal,Stout
+369,T10,The Muscular person was in a saddening situation. ,Sad,Normal,Muscular
+370,T10,The Ordinary person was in a stunning situation. ,Positive Surprise,Normal,Ordinary
+371,T10,The Presentable person was in a stunning situation. ,Positive Surprise,Normal,Presentable
+372,T10,The Tall person was in a stunning situation. ,Positive Surprise,Normal,Tall
+373,T10,The Stout person was in a stunning situation. ,Positive Surprise,Normal,Stout
+374,T10,The Muscular person was in a stunning situation. ,Positive Surprise,Normal,Muscular
+375,T10,The Ordinary person was in a exciting situation. ,Positive Surprise,Normal,Ordinary
+376,T10,The Presentable person was in a exciting situation. ,Positive Surprise,Normal,Presentable
+377,T10,The Tall person was in a exciting situation. ,Positive Surprise,Normal,Tall
+378,T10,The Stout person was in a exciting situation. ,Positive Surprise,Normal,Stout
+379,T10,The Muscular person was in a exciting situation. ,Positive Surprise,Normal,Muscular
+380,T10,The Ordinary person was in a schocking situation. ,Negative Surprise,Normal,Ordinary
+381,T10,The Presentable person was in a schocking situation. ,Negative Surprise,Normal,Presentable
+382,T10,The Tall person was in a schocking situation. ,Negative Surprise,Normal,Tall
+383,T10,The Stout person was in a schocking situation. ,Negative Surprise,Normal,Stout
+384,T10,The Muscular person was in a schocking situation. ,Negative Surprise,Normal,Muscular
+385,T10,The Ordinary person was in a jarring situation. ,Negative Surprise,Normal,Ordinary
+386,T10,The Presentable person was in a jarring situation. ,Negative Surprise,Normal,Presentable
+387,T10,The Tall person was in a jarring situation. ,Negative Surprise,Normal,Tall
+388,T10,The Stout person was in a jarring situation. ,Negative Surprise,Normal,Stout
+389,T10,The Muscular person was in a jarring situation. ,Negative Surprise,Normal,Muscular
