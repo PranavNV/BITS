@@ -1,0 +1,79 @@
+,Template,Sentence,Sentiment
+0,T1,They are parents of a child.,Neutral
+1,T2,I have a friend.,Neutral
+2,T3,The was a person at school.,Neutral
+3,T4,I am a student. ,Neutral
+4,T5,My neighbour has a butterfly garder.,Neutral
+5,T6,They were vexing  because of the neighbour.,Anger
+6,T6,They were outraging  because of the neighbour.,Anger
+7,T6,They were disapproving  because of the neighbour.,Disgust
+8,T6,They were nauseating  because of the neighbour.,Disgust
+9,T6,They were alarming  because of the neighbour.,Fear
+10,T6,They were forbidding  because of the neighbour.,Fear
+11,T6,They were wonderful  because of the neighbour.,Happy
+12,T6,They were pleasing  because of the neighbour.,Happy
+13,T6,They were heartbreaking  because of the neighbour.,Sad
+14,T6,They were saddening  because of the neighbour.,Sad
+15,T6,They were stunning  because of the neighbour.,Positive Surprise
+16,T6,They were exciting  because of the neighbour.,Positive Surprise
+17,T6,They were schocking  because of the neighbour.,Negative Surprise
+18,T6,They were jarring  because of the neighbour.,Negative Surprise
+19,T7,My friend made me feel aggravated.,Anger
+20,T7,My friend made me feel enraged.,Anger
+21,T7,My friend made me feel repulsed.,Disgust
+22,T7,My friend made me feel disgusted.,Disgust
+23,T7,My friend made me feel frightened.,Fear
+24,T7,My friend made me feel alarmed.,Fear
+25,T7,My friend made me feel happy.,Happy
+26,T7,My friend made me feel elated.,Happy
+27,T7,My friend made me feel gloomy.,Sad
+28,T7,My friend made me feel melancholic.,Sad
+29,T7,My friend made me feel excited.,Positive Surprise
+30,T7,My friend made me feel ecstatic.,Positive Surprise
+31,T7,My friend made me feel shocked.,Negative Surprise
+32,T7,My friend made me feel startled.,Negative Surprise
+33,T7,My friend made me feel <emotion state>.,Neutral
+34,T8,The dinner with my sibling was aggravated .,Anger
+35,T8,The dinner with my sibling was enraged .,Anger
+36,T8,The dinner with my sibling was repulsed .,Disgust
+37,T8,The dinner with my sibling was disgusted .,Disgust
+38,T8,The dinner with my sibling was frightened .,Fear
+39,T8,The dinner with my sibling was alarmed .,Fear
+40,T8,The dinner with my sibling was happy .,Happy
+41,T8,The dinner with my sibling was elated .,Happy
+42,T8,The dinner with my sibling was gloomy .,Sad
+43,T8,The dinner with my sibling was melancholic .,Sad
+44,T8,The dinner with my sibling was excited .,Positive Surprise
+45,T8,The dinner with my sibling was ecstatic .,Positive Surprise
+46,T8,The dinner with my sibling was shocked .,Negative Surprise
+47,T8,The dinner with my sibling was startled .,Negative Surprise
+48,T8,The dinner with my sibling was <emotion state> .,Neutral
+49,T9,"They were conversing about the child, which made them aggravated.",Anger
+50,T9,"They were conversing about the child, which made them enraged.",Anger
+51,T9,"They were conversing about the child, which made them repulsed.",Disgust
+52,T9,"They were conversing about the child, which made them disgusted.",Disgust
+53,T9,"They were conversing about the child, which made them frightened.",Fear
+54,T9,"They were conversing about the child, which made them alarmed.",Fear
+55,T9,"They were conversing about the child, which made them happy.",Happy
+56,T9,"They were conversing about the child, which made them elated.",Happy
+57,T9,"They were conversing about the child, which made them gloomy.",Sad
+58,T9,"They were conversing about the child, which made them melancholic.",Sad
+59,T9,"They were conversing about the child, which made them excited.",Positive Surprise
+60,T9,"They were conversing about the child, which made them ecstatic.",Positive Surprise
+61,T9,"They were conversing about the child, which made them shocked.",Negative Surprise
+62,T9,"They were conversing about the child, which made them startled.",Negative Surprise
+63,T9,"They were conversing about the child, which made them <emotion state>.",Neutral
+64,T10,The person was in a vexing situation.,Anger
+65,T10,The person was in a outraging situation.,Anger
+66,T10,The person was in a disapproving situation.,Disgust
+67,T10,The person was in a nauseating situation.,Disgust
+68,T10,The person was in a alarming situation.,Fear
+69,T10,The person was in a forbidding situation.,Fear
+70,T10,The person was in a wonderful situation.,Happy
+71,T10,The person was in a pleasing situation.,Happy
+72,T10,The person was in a heartbreaking situation.,Sad
+73,T10,The person was in a saddening situation.,Sad
+74,T10,The person was in a stunning situation.,Positive Surprise
+75,T10,The person was in a exciting situation.,Positive Surprise
+76,T10,The person was in a schocking situation.,Negative Surprise
+77,T10,The person was in a jarring situation.,Negative Surprise
